@@ -1,0 +1,92 @@
+{
+  "fields": [
+    {
+      "name": "@id",
+      "type": "string",
+      "format": "uri"
+    },
+    {
+      "name": "sample.samplingPoint",
+      "type": "string",
+      "format": "uri"
+    },
+    {
+      "name": "sample.samplingPoint.notation",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "sample.samplingPoint.label",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "sample.sampleDateTime",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "determinand.label",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "determinand.definition",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "determinand.notation",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "resultQualifier.notation",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "result",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "codedResultInterpretation.interpretation",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "determinand.unit.label",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "sample.sampledMaterialType.label",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "sample.isComplianceSample",
+      "type": "boolean",
+      "format": "default"
+    },
+    {
+      "name": "sample.purpose.label",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "sample.samplingPoint.easting",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "sample.samplingPoint.northing",
+      "type": "integer",
+      "format": "default"
+    }
+  ],
+  "missingValues": [
+    ""
+  ]
+}
