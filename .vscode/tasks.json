@@ -1,0 +1,19 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "Build quaketool",
+        "type": "shell",
+        "command": "make clean && make quaketool",
+        "options": {
+          "cwd": "${workspaceFolder}/cwk2 solution/build"
+        },
+        "group": {
+          "kind": "build",
+          "isDefault": true
+        },
+        "problemMatcher": []
+      }
+    ]
+  }
+  

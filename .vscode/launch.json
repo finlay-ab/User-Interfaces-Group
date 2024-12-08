@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Run quaketool",
+        "type": "cppdbg",
+        "request": "launch",
+        "preLaunchTask": "Build quaketool",
+        "program": "${workspaceFolder}/cwk2 solution/build/quaketool",
+        "args": [],
+        "cwd": "${workspaceFolder}/cwk2 solution/build",
+        "stopAtEntry": false,
+        "environment": [],
+        "externalConsole": true,
+        "MIMode": "gdb",
+        "miDebuggerPath": "/usr/bin/gdb"
+      }
+    ]
+  }
+  
