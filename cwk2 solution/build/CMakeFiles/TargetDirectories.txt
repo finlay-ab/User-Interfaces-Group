@@ -1,0 +1,4 @@
+/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles/quaketool.dir
+/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles/edit_cache.dir
+/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles/rebuild_cache.dir
+/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles/quaketool_autogen.dir
