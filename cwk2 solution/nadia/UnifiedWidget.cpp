@@ -1,11 +1,11 @@
-#include "widgets/UnifiedWidget.hpp"
+#include "UnifiedWidget.hpp"
 #include <QHBoxLayout>
 #include <QVBoxLayout>
 #include <QPalette>
 #include <QFont>
 
 UnifiedWidget::UnifiedWidget(QWidget *parent)
-    : QWidget(parent)git
+    : QWidget(parent)
 {
     setupUI();
 }

@@ -1,7 +1,6 @@
-// COMP2811 Coursework 2: application entry point
-
 #include <QtWidgets>
 #include "window.hpp"
+#include "nadia/UnifiedWidget.hpp"  
 
 int main(int argc, char* argv[])
 {
@@ -9,6 +8,9 @@ int main(int argc, char* argv[])
 
   QuakeWindow window;
   window.show();
+
+  UnifiedWidget unifiedWidget;
+  unifiedWidget.show();
 
   return app.exec();
 }

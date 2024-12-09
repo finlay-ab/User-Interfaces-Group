@@ -57,10 +57,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution"
+CMAKE_SOURCE_DIR = "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/build"
+CMAKE_BINARY_DIR = "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -87,9 +87,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles" "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/build//CMakeFiles/progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles" "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build//CMakeFiles/progress.marks"
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles" 0
 .PHONY : all
 
 # The main clean target
@@ -214,6 +214,30 @@ model.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/quaketool.dir/build.make CMakeFiles/quaketool.dir/model.cpp.s
 .PHONY : model.cpp.s
 
+nadia/UnifiedWidget.o: nadia/UnifiedWidget.cpp.o
+.PHONY : nadia/UnifiedWidget.o
+
+# target to build an object file
+nadia/UnifiedWidget.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/quaketool.dir/build.make CMakeFiles/quaketool.dir/nadia/UnifiedWidget.cpp.o
+.PHONY : nadia/UnifiedWidget.cpp.o
+
+nadia/UnifiedWidget.i: nadia/UnifiedWidget.cpp.i
+.PHONY : nadia/UnifiedWidget.i
+
+# target to preprocess a source file
+nadia/UnifiedWidget.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/quaketool.dir/build.make CMakeFiles/quaketool.dir/nadia/UnifiedWidget.cpp.i
+.PHONY : nadia/UnifiedWidget.cpp.i
+
+nadia/UnifiedWidget.s: nadia/UnifiedWidget.cpp.s
+.PHONY : nadia/UnifiedWidget.s
+
+# target to generate assembly for a file
+nadia/UnifiedWidget.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/quaketool.dir/build.make CMakeFiles/quaketool.dir/nadia/UnifiedWidget.cpp.s
+.PHONY : nadia/UnifiedWidget.cpp.s
+
 quake.o: quake.cpp.o
 .PHONY : quake.o
 
@@ -329,6 +353,9 @@ help:
 	@echo "... model.o"
 	@echo "... model.i"
 	@echo "... model.s"
+	@echo "... nadia/UnifiedWidget.o"
+	@echo "... nadia/UnifiedWidget.i"
+	@echo "... nadia/UnifiedWidget.s"
 	@echo "... quake.o"
 	@echo "... quake.i"
 	@echo "... quake.s"

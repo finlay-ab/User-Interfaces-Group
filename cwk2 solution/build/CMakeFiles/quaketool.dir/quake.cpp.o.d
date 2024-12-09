@@ -1,5 +1,5 @@
 CMakeFiles/quaketool.dir/quake.cpp.o: \
- /uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2\ solution/quake.cpp \
+ /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/quake.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/11/stdexcept \
  /usr/include/c++/11/exception \
  /usr/include/c++/11/x86_64-redhat-linux/bits/c++config.h \
@@ -126,5 +126,5 @@ CMakeFiles/quaketool.dir/quake.cpp.o: \
  /usr/include/c++/11/bits/ostream.tcc \
  /usr/include/c++/11/bits/istream.tcc \
  /usr/include/c++/11/bits/sstream.tcc \
- /uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2\ solution/quake.hpp \
+ /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/quake.hpp \
  /usr/include/c++/11/iostream

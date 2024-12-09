@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB
 
-CXX_INCLUDES = -I"/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/quaketool_autogen/include" -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib64/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui
+CXX_INCLUDES = -I"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/quaketool_autogen/include" -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib64/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui
 
 CXX_FLAGS = -std=gnu++17
 

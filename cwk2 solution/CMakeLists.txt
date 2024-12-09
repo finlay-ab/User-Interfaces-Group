@@ -15,6 +15,7 @@ qt_add_executable(quaketool
     model.cpp
     window.cpp
     stats.cpp
+    nadia/UnifiedWidget.cpp  
 )
 
 target_link_libraries(quaketool PRIVATE Qt6::Widgets)

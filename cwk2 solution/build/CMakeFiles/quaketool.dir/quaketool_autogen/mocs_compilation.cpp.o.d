@@ -1,10 +1,9 @@
 CMakeFiles/quaketool.dir/quaketool_autogen/mocs_compilation.cpp.o: \
- /uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2\ solution/build/quaketool_autogen/mocs_compilation.cpp \
+ /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/build/quaketool_autogen/mocs_compilation.cpp \
  /usr/include/stdc-predef.h \
- /uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2\ solution/build/quaketool_autogen/EWIEGA46WW/moc_window.cpp \
- /uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2\ solution/build/quaketool_autogen/EWIEGA46WW/../../../window.hpp \
- /usr/include/qt6/QtWidgets/QMainWindow \
- /usr/include/qt6/QtWidgets/qmainwindow.h \
+ /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/build/quaketool_autogen/A46XQFH7UF/moc_UnifiedWidget.cpp \
+ /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/build/quaketool_autogen/A46XQFH7UF/../../../nadia/UnifiedWidget.hpp \
+ /usr/include/qt6/QtWidgets/QWidget /usr/include/qt6/QtWidgets/qwidget.h \
  /usr/include/qt6/QtWidgets/qtwidgetsglobal.h \
  /usr/include/qt6/QtGui/qtguiglobal.h /usr/include/qt6/QtCore/qglobal.h \
  /usr/include/c++/11/type_traits \
@@ -131,7 +130,6 @@ CMakeFiles/quaketool.dir/quaketool_autogen/mocs_compilation.cpp.o: \
  /usr/include/qt6/QtGui/qtguiexports.h \
  /usr/include/qt6/QtWidgets/qtwidgets-config.h \
  /usr/include/qt6/QtWidgets/qtwidgetsexports.h \
- /usr/include/qt6/QtWidgets/qwidget.h \
  /usr/include/qt6/QtGui/qwindowdefs.h \
  /usr/include/qt6/QtCore/qobjectdefs.h \
  /usr/include/qt6/QtCore/qnamespace.h \
@@ -297,12 +295,54 @@ CMakeFiles/quaketool.dir/quaketool_autogen/mocs_compilation.cpp.o: \
  /usr/include/qt6/QtGui/qfontinfo.h \
  /usr/include/qt6/QtWidgets/qsizepolicy.h \
  /usr/include/qt6/QtGui/qcursor.h /usr/include/qt6/QtGui/qbitmap.h \
+ /usr/include/qt6/QtWidgets/QLabel /usr/include/qt6/QtWidgets/qlabel.h \
+ /usr/include/qt6/QtWidgets/qframe.h /usr/include/qt6/QtWidgets/qwidget.h \
+ /usr/include/qt6/QtGui/qpicture.h /usr/include/qt6/QtCore/qiodevice.h \
+ /usr/include/qt6/QtGui/qtextdocument.h /usr/include/qt6/QtCore/qurl.h \
+ /usr/include/qt6/QtWidgets/QPushButton \
+ /usr/include/qt6/QtWidgets/qpushbutton.h \
+ /usr/include/qt6/QtWidgets/qabstractbutton.h \
+ /usr/include/qt6/QtWidgets/QComboBox \
+ /usr/include/qt6/QtWidgets/qcombobox.h \
+ /usr/include/qt6/QtWidgets/qabstractitemdelegate.h \
+ /usr/include/qt6/QtWidgets/qstyleoption.h \
+ /usr/include/qt6/QtCore/qlocale.h \
+ /usr/include/qt6/QtWidgets/qabstractspinbox.h \
+ /usr/include/qt6/QtGui/qvalidator.h \
+ /usr/include/qt6/QtCore/qregularexpression.h \
+ /usr/include/qt6/QtWidgets/qslider.h \
+ /usr/include/qt6/QtWidgets/qabstractslider.h \
+ /usr/include/qt6/QtWidgets/qstyle.h /usr/include/qt6/QtWidgets/qtabbar.h \
  /usr/include/qt6/QtWidgets/qtabwidget.h \
- /uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2\ solution/build/quaketool_autogen/EWIEGA46WW/../../../model.hpp \
+ /usr/include/qt6/QtWidgets/qrubberband.h \
+ /usr/include/qt6/QtCore/qabstractitemmodel.h \
+ /usr/include/qt6/QtWidgets/QTableView \
+ /usr/include/qt6/QtWidgets/qtableview.h \
+ /usr/include/qt6/QtWidgets/qabstractitemview.h \
+ /usr/include/qt6/QtWidgets/qabstractscrollarea.h \
+ /usr/include/qt6/QtCore/qitemselectionmodel.h \
+ /usr/include/qt6/QtWidgets/QVBoxLayout \
+ /usr/include/qt6/QtWidgets/qboxlayout.h \
+ /usr/include/qt6/QtWidgets/qlayout.h \
+ /usr/include/qt6/QtWidgets/qlayoutitem.h \
+ /usr/include/qt6/QtWidgets/qboxlayout.h \
+ /usr/include/qt6/QtWidgets/qgridlayout.h \
+ /usr/include/qt6/QtWidgets/QHBoxLayout \
+ /usr/include/qt6/QtWidgets/QLineEdit \
+ /usr/include/qt6/QtWidgets/qlineedit.h \
+ /usr/include/qt6/QtGui/qtextcursor.h \
+ /usr/include/qt6/QtGui/qtextformat.h /usr/include/qt6/QtGui/qpen.h \
+ /usr/include/qt6/QtGui/qtextoption.h \
+ /usr/include/qt6/QtCore/qtmochelpers.h \
+ /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/build/quaketool_autogen/EWIEGA46WW/moc_window.cpp \
+ /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/build/quaketool_autogen/EWIEGA46WW/../../../window.hpp \
+ /usr/include/qt6/QtWidgets/QMainWindow \
+ /usr/include/qt6/QtWidgets/qmainwindow.h \
+ /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/build/quaketool_autogen/EWIEGA46WW/../../../model.hpp \
  /usr/include/qt6/QtCore/QAbstractTableModel \
  /usr/include/qt6/QtCore/qabstractitemmodel.h \
- /uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2\ solution/build/quaketool_autogen/EWIEGA46WW/../../../dataset.hpp \
- /uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2\ solution/build/quaketool_autogen/EWIEGA46WW/../../../quake.hpp \
+ /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/build/quaketool_autogen/EWIEGA46WW/../../../dataset.hpp \
+ /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/build/quaketool_autogen/EWIEGA46WW/../../../quake.hpp \
  /usr/include/c++/11/iostream /usr/include/c++/11/ostream \
  /usr/include/c++/11/ios /usr/include/c++/11/bits/basic_ios.h \
  /usr/include/c++/11/bits/locale_facets.h /usr/include/c++/11/cwctype \
@@ -312,5 +352,4 @@ CMakeFiles/quaketool.dir/quaketool_autogen/mocs_compilation.cpp.o: \
  /usr/include/c++/11/bits/locale_facets.tcc \
  /usr/include/c++/11/bits/basic_ios.tcc \
  /usr/include/c++/11/bits/ostream.tcc /usr/include/c++/11/istream \
- /usr/include/c++/11/bits/istream.tcc \
- /usr/include/qt6/QtCore/qtmochelpers.h
+ /usr/include/c++/11/bits/istream.tcc

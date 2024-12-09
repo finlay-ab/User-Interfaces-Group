@@ -1,5 +1,5 @@
 CMakeFiles/quaketool.dir/main.cpp.o: \
- /uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2\ solution/main.cpp \
+ /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/main.cpp \
  /usr/include/stdc-predef.h /usr/include/qt6/QtWidgets/QtWidgets \
  /usr/include/qt6/QtWidgets/QtWidgetsDepends \
  /usr/include/qt6/QtCore/QtCore /usr/include/qt6/QtCore/QtCoreDepends \
@@ -927,10 +927,18 @@ CMakeFiles/quaketool.dir/main.cpp.o: \
  /usr/include/qt6/QtWidgets/qwidget.h \
  /usr/include/qt6/QtWidgets/qwidgetaction.h \
  /usr/include/qt6/QtWidgets/qwizard.h \
- /uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2\ solution/window.hpp \
+ /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/window.hpp \
  /usr/include/qt6/QtWidgets/QMainWindow \
- /uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2\ solution/model.hpp \
+ /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/model.hpp \
  /usr/include/qt6/QtCore/QAbstractTableModel \
- /uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2\ solution/dataset.hpp \
- /uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2\ solution/quake.hpp \
- /usr/include/c++/11/iostream
+ /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/dataset.hpp \
+ /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/quake.hpp \
+ /usr/include/c++/11/iostream \
+ /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/nadia/UnifiedWidget.hpp \
+ /usr/include/qt6/QtWidgets/QWidget /usr/include/qt6/QtWidgets/QLabel \
+ /usr/include/qt6/QtWidgets/QPushButton \
+ /usr/include/qt6/QtWidgets/QComboBox \
+ /usr/include/qt6/QtWidgets/QTableView \
+ /usr/include/qt6/QtWidgets/QVBoxLayout \
+ /usr/include/qt6/QtWidgets/QHBoxLayout \
+ /usr/include/qt6/QtWidgets/QLineEdit

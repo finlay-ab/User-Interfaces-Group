@@ -1,5 +1,5 @@
 CMakeFiles/quaketool.dir/stats.cpp.o: \
- /uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2\ solution/stats.cpp \
+ /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/stats.cpp \
  /usr/include/stdc-predef.h /usr/include/qt6/QtWidgets/QtWidgets \
  /usr/include/qt6/QtWidgets/QtWidgetsDepends \
  /usr/include/qt6/QtCore/QtCore /usr/include/qt6/QtCore/QtCoreDepends \
@@ -927,5 +927,5 @@ CMakeFiles/quaketool.dir/stats.cpp.o: \
  /usr/include/qt6/QtWidgets/qwidget.h \
  /usr/include/qt6/QtWidgets/qwidgetaction.h \
  /usr/include/qt6/QtWidgets/qwizard.h \
- /uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2\ solution/stats.hpp \
+ /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/stats.hpp \
  /usr/include/qt6/QtWidgets/QDialog

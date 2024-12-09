@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution"
+CMAKE_SOURCE_DIR = "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/build"
+CMAKE_BINARY_DIR = "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build"
 
 # Utility rule file for quaketool_autogen.
 
@@ -67,8 +67,8 @@ include CMakeFiles/quaketool_autogen.dir/compiler_depend.make
 include CMakeFiles/quaketool_autogen.dir/progress.make
 
 CMakeFiles/quaketool_autogen:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir="/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target quaketool"
-	/usr/bin/cmake -E cmake_autogen "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles/quaketool_autogen.dir/AutogenInfo.json" ""
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir="/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target quaketool"
+	/usr/bin/cmake -E cmake_autogen "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles/quaketool_autogen.dir/AutogenInfo.json" ""
 
 quaketool_autogen: CMakeFiles/quaketool_autogen
 quaketool_autogen: CMakeFiles/quaketool_autogen.dir/build.make
@@ -83,6 +83,6 @@ CMakeFiles/quaketool_autogen.dir/clean:
 .PHONY : CMakeFiles/quaketool_autogen.dir/clean
 
 CMakeFiles/quaketool_autogen.dir/depend:
-	cd "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/build" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution" "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution" "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/build" "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/build" "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles/quaketool_autogen.dir/DependInfo.cmake" --color=$(COLOR)
+	cd "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution" "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution" "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build" "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build" "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles/quaketool_autogen.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/quaketool_autogen.dir/depend
 
