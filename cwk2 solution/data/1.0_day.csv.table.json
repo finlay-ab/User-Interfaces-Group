@@ -1,0 +1,202 @@
+{
+  "columns": [
+    {
+      "field": "time",
+      "title": "time",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 184
+    },
+    {
+      "field": "latitude",
+      "title": "latitude",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 125
+    },
+    {
+      "field": "longitude",
+      "title": "longitude",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 133
+    },
+    {
+      "field": "depth",
+      "title": "depth",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 127
+    },
+    {
+      "field": "mag",
+      "title": "mag",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 94
+    },
+    {
+      "field": "magType",
+      "title": "magType",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 124
+    },
+    {
+      "field": "nst",
+      "title": "nst",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 86
+    },
+    {
+      "field": "gap",
+      "title": "gap",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 89
+    },
+    {
+      "field": "dmin",
+      "title": "dmin",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 98
+    },
+    {
+      "field": "rms",
+      "title": "rms",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 107
+    },
+    {
+      "field": "net",
+      "title": "net",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 86
+    },
+    {
+      "field": "id",
+      "title": "id",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "alphanum",
+      "headerSort": true,
+      "width": 103
+    },
+    {
+      "field": "updated",
+      "title": "updated",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 183
+    },
+    {
+      "field": "place",
+      "title": "place",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 319
+    },
+    {
+      "field": "type",
+      "title": "type",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 93
+    },
+    {
+      "field": "horizontalError",
+      "title": "horizontalError",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 161
+    },
+    {
+      "field": "depthError",
+      "title": "depthError",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 134
+    },
+    {
+      "field": "magError",
+      "title": "magError",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 134
+    },
+    {
+      "field": "magNst",
+      "title": "magNst",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 116
+    },
+    {
+      "field": "status",
+      "title": "status",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 104
+    },
+    {
+      "field": "locationSource",
+      "title": "locationSource",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 159
+    },
+    {
+      "field": "magSource",
+      "title": "magSource",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 136
+    }
+  ]
+}

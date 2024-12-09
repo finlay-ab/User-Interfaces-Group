@@ -14,7 +14,7 @@ void QuakeDataset::loadData(const string& filename)
   csv::CSVReader reader(filename);
 
   data.clear();
-  //need to add date time , detemine lable then 3 random ones 
+
   for (const auto& row: reader) {
     Quake quake{
       row["time"].get<>(),

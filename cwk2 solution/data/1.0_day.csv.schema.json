@@ -1,0 +1,117 @@
+{
+  "fields": [
+    {
+      "name": "time",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "latitude",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "longitude",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "depth",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "mag",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "magType",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "nst",
+      "type": "any",
+      "format": "default"
+    },
+    {
+      "name": "gap",
+      "type": "any",
+      "format": "default"
+    },
+    {
+      "name": "dmin",
+      "type": "any",
+      "format": "default"
+    },
+    {
+      "name": "rms",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "net",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "id",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "updated",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "place",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "type",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "horizontalError",
+      "type": "any",
+      "format": "default"
+    },
+    {
+      "name": "depthError",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "magError",
+      "type": "any",
+      "format": "default"
+    },
+    {
+      "name": "magNst",
+      "type": "any",
+      "format": "default"
+    },
+    {
+      "name": "status",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "locationSource",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "magSource",
+      "type": "string",
+      "format": "default"
+    }
+  ],
+  "missingValues": [
+    ""
+  ]
+}
