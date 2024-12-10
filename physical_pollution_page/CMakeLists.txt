@@ -13,6 +13,7 @@ qt_add_executable(phys_poln
     main.cpp
     pie_chart.cpp
     window.cpp
+    info.cpp
 )
 
 target_link_libraries(phys_poln PRIVATE Qt6::Widgets)
