@@ -5,7 +5,7 @@ int main(int argc, char* argv[])
 {
   QApplication app(argc, argv);
 
-  QWidget* widget = new FlourideWindow;
+  QWidget* widget = new FluorideWindow;
   widget->show();
 
   return app.exec();
