@@ -142,6 +142,102 @@ quaketool_autogen/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/quaketool_autogen.dir/build.make CMakeFiles/quaketool_autogen.dir/build
 .PHONY : quaketool_autogen/fast
 
+daniel/fluorinated_compounds_page/line_chart.o: daniel/fluorinated_compounds_page/line_chart.cpp.o
+.PHONY : daniel/fluorinated_compounds_page/line_chart.o
+
+# target to build an object file
+daniel/fluorinated_compounds_page/line_chart.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/quaketool.dir/build.make CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/line_chart.cpp.o
+.PHONY : daniel/fluorinated_compounds_page/line_chart.cpp.o
+
+daniel/fluorinated_compounds_page/line_chart.i: daniel/fluorinated_compounds_page/line_chart.cpp.i
+.PHONY : daniel/fluorinated_compounds_page/line_chart.i
+
+# target to preprocess a source file
+daniel/fluorinated_compounds_page/line_chart.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/quaketool.dir/build.make CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/line_chart.cpp.i
+.PHONY : daniel/fluorinated_compounds_page/line_chart.cpp.i
+
+daniel/fluorinated_compounds_page/line_chart.s: daniel/fluorinated_compounds_page/line_chart.cpp.s
+.PHONY : daniel/fluorinated_compounds_page/line_chart.s
+
+# target to generate assembly for a file
+daniel/fluorinated_compounds_page/line_chart.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/quaketool.dir/build.make CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/line_chart.cpp.s
+.PHONY : daniel/fluorinated_compounds_page/line_chart.cpp.s
+
+daniel/fluorinated_compounds_page/window.o: daniel/fluorinated_compounds_page/window.cpp.o
+.PHONY : daniel/fluorinated_compounds_page/window.o
+
+# target to build an object file
+daniel/fluorinated_compounds_page/window.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/quaketool.dir/build.make CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/window.cpp.o
+.PHONY : daniel/fluorinated_compounds_page/window.cpp.o
+
+daniel/fluorinated_compounds_page/window.i: daniel/fluorinated_compounds_page/window.cpp.i
+.PHONY : daniel/fluorinated_compounds_page/window.i
+
+# target to preprocess a source file
+daniel/fluorinated_compounds_page/window.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/quaketool.dir/build.make CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/window.cpp.i
+.PHONY : daniel/fluorinated_compounds_page/window.cpp.i
+
+daniel/fluorinated_compounds_page/window.s: daniel/fluorinated_compounds_page/window.cpp.s
+.PHONY : daniel/fluorinated_compounds_page/window.s
+
+# target to generate assembly for a file
+daniel/fluorinated_compounds_page/window.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/quaketool.dir/build.make CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/window.cpp.s
+.PHONY : daniel/fluorinated_compounds_page/window.cpp.s
+
+daniel/physical_pollution_page/pie_chart.o: daniel/physical_pollution_page/pie_chart.cpp.o
+.PHONY : daniel/physical_pollution_page/pie_chart.o
+
+# target to build an object file
+daniel/physical_pollution_page/pie_chart.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/quaketool.dir/build.make CMakeFiles/quaketool.dir/daniel/physical_pollution_page/pie_chart.cpp.o
+.PHONY : daniel/physical_pollution_page/pie_chart.cpp.o
+
+daniel/physical_pollution_page/pie_chart.i: daniel/physical_pollution_page/pie_chart.cpp.i
+.PHONY : daniel/physical_pollution_page/pie_chart.i
+
+# target to preprocess a source file
+daniel/physical_pollution_page/pie_chart.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/quaketool.dir/build.make CMakeFiles/quaketool.dir/daniel/physical_pollution_page/pie_chart.cpp.i
+.PHONY : daniel/physical_pollution_page/pie_chart.cpp.i
+
+daniel/physical_pollution_page/pie_chart.s: daniel/physical_pollution_page/pie_chart.cpp.s
+.PHONY : daniel/physical_pollution_page/pie_chart.s
+
+# target to generate assembly for a file
+daniel/physical_pollution_page/pie_chart.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/quaketool.dir/build.make CMakeFiles/quaketool.dir/daniel/physical_pollution_page/pie_chart.cpp.s
+.PHONY : daniel/physical_pollution_page/pie_chart.cpp.s
+
+daniel/physical_pollution_page/window.o: daniel/physical_pollution_page/window.cpp.o
+.PHONY : daniel/physical_pollution_page/window.o
+
+# target to build an object file
+daniel/physical_pollution_page/window.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/quaketool.dir/build.make CMakeFiles/quaketool.dir/daniel/physical_pollution_page/window.cpp.o
+.PHONY : daniel/physical_pollution_page/window.cpp.o
+
+daniel/physical_pollution_page/window.i: daniel/physical_pollution_page/window.cpp.i
+.PHONY : daniel/physical_pollution_page/window.i
+
+# target to preprocess a source file
+daniel/physical_pollution_page/window.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/quaketool.dir/build.make CMakeFiles/quaketool.dir/daniel/physical_pollution_page/window.cpp.i
+.PHONY : daniel/physical_pollution_page/window.cpp.i
+
+daniel/physical_pollution_page/window.s: daniel/physical_pollution_page/window.cpp.s
+.PHONY : daniel/physical_pollution_page/window.s
+
+# target to generate assembly for a file
+daniel/physical_pollution_page/window.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/quaketool.dir/build.make CMakeFiles/quaketool.dir/daniel/physical_pollution_page/window.cpp.s
+.PHONY : daniel/physical_pollution_page/window.cpp.s
+
 dataset.o: dataset.cpp.o
 .PHONY : dataset.o
 
@@ -344,6 +440,18 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... quaketool_autogen"
 	@echo "... quaketool"
+	@echo "... daniel/fluorinated_compounds_page/line_chart.o"
+	@echo "... daniel/fluorinated_compounds_page/line_chart.i"
+	@echo "... daniel/fluorinated_compounds_page/line_chart.s"
+	@echo "... daniel/fluorinated_compounds_page/window.o"
+	@echo "... daniel/fluorinated_compounds_page/window.i"
+	@echo "... daniel/fluorinated_compounds_page/window.s"
+	@echo "... daniel/physical_pollution_page/pie_chart.o"
+	@echo "... daniel/physical_pollution_page/pie_chart.i"
+	@echo "... daniel/physical_pollution_page/pie_chart.s"
+	@echo "... daniel/physical_pollution_page/window.o"
+	@echo "... daniel/physical_pollution_page/window.i"
+	@echo "... daniel/physical_pollution_page/window.s"
 	@echo "... dataset.o"
 	@echo "... dataset.i"
 	@echo "... dataset.s"

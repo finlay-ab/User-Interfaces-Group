@@ -181,6 +181,62 @@ CMakeFiles/quaketool.dir/nadia/UnifiedWidget.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/quaketool.dir/nadia/UnifiedWidget.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/nadia/UnifiedWidget.cpp" -o CMakeFiles/quaketool.dir/nadia/UnifiedWidget.cpp.s
 
+CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/window.cpp.o: CMakeFiles/quaketool.dir/flags.make
+CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/window.cpp.o: /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/daniel/fluorinated_compounds_page/window.cpp
+CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/window.cpp.o: CMakeFiles/quaketool.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/window.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/window.cpp.o -MF CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/window.cpp.o.d -o CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/window.cpp.o -c "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/fluorinated_compounds_page/window.cpp"
+
+CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/window.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/window.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/fluorinated_compounds_page/window.cpp" > CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/window.cpp.i
+
+CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/window.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/window.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/fluorinated_compounds_page/window.cpp" -o CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/window.cpp.s
+
+CMakeFiles/quaketool.dir/daniel/physical_pollution_page/window.cpp.o: CMakeFiles/quaketool.dir/flags.make
+CMakeFiles/quaketool.dir/daniel/physical_pollution_page/window.cpp.o: /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/daniel/physical_pollution_page/window.cpp
+CMakeFiles/quaketool.dir/daniel/physical_pollution_page/window.cpp.o: CMakeFiles/quaketool.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/quaketool.dir/daniel/physical_pollution_page/window.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/quaketool.dir/daniel/physical_pollution_page/window.cpp.o -MF CMakeFiles/quaketool.dir/daniel/physical_pollution_page/window.cpp.o.d -o CMakeFiles/quaketool.dir/daniel/physical_pollution_page/window.cpp.o -c "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/physical_pollution_page/window.cpp"
+
+CMakeFiles/quaketool.dir/daniel/physical_pollution_page/window.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/quaketool.dir/daniel/physical_pollution_page/window.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/physical_pollution_page/window.cpp" > CMakeFiles/quaketool.dir/daniel/physical_pollution_page/window.cpp.i
+
+CMakeFiles/quaketool.dir/daniel/physical_pollution_page/window.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/quaketool.dir/daniel/physical_pollution_page/window.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/physical_pollution_page/window.cpp" -o CMakeFiles/quaketool.dir/daniel/physical_pollution_page/window.cpp.s
+
+CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/line_chart.cpp.o: CMakeFiles/quaketool.dir/flags.make
+CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/line_chart.cpp.o: /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/daniel/fluorinated_compounds_page/line_chart.cpp
+CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/line_chart.cpp.o: CMakeFiles/quaketool.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/line_chart.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/line_chart.cpp.o -MF CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/line_chart.cpp.o.d -o CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/line_chart.cpp.o -c "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/fluorinated_compounds_page/line_chart.cpp"
+
+CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/line_chart.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/line_chart.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/fluorinated_compounds_page/line_chart.cpp" > CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/line_chart.cpp.i
+
+CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/line_chart.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/line_chart.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/fluorinated_compounds_page/line_chart.cpp" -o CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/line_chart.cpp.s
+
+CMakeFiles/quaketool.dir/daniel/physical_pollution_page/pie_chart.cpp.o: CMakeFiles/quaketool.dir/flags.make
+CMakeFiles/quaketool.dir/daniel/physical_pollution_page/pie_chart.cpp.o: /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/daniel/physical_pollution_page/pie_chart.cpp
+CMakeFiles/quaketool.dir/daniel/physical_pollution_page/pie_chart.cpp.o: CMakeFiles/quaketool.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/quaketool.dir/daniel/physical_pollution_page/pie_chart.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/quaketool.dir/daniel/physical_pollution_page/pie_chart.cpp.o -MF CMakeFiles/quaketool.dir/daniel/physical_pollution_page/pie_chart.cpp.o.d -o CMakeFiles/quaketool.dir/daniel/physical_pollution_page/pie_chart.cpp.o -c "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/physical_pollution_page/pie_chart.cpp"
+
+CMakeFiles/quaketool.dir/daniel/physical_pollution_page/pie_chart.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/quaketool.dir/daniel/physical_pollution_page/pie_chart.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/physical_pollution_page/pie_chart.cpp" > CMakeFiles/quaketool.dir/daniel/physical_pollution_page/pie_chart.cpp.i
+
+CMakeFiles/quaketool.dir/daniel/physical_pollution_page/pie_chart.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/quaketool.dir/daniel/physical_pollution_page/pie_chart.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/physical_pollution_page/pie_chart.cpp" -o CMakeFiles/quaketool.dir/daniel/physical_pollution_page/pie_chart.cpp.s
+
 # Object files for target quaketool
 quaketool_OBJECTS = \
 "CMakeFiles/quaketool.dir/quaketool_autogen/mocs_compilation.cpp.o" \
@@ -190,7 +246,11 @@ quaketool_OBJECTS = \
 "CMakeFiles/quaketool.dir/model.cpp.o" \
 "CMakeFiles/quaketool.dir/window.cpp.o" \
 "CMakeFiles/quaketool.dir/stats.cpp.o" \
-"CMakeFiles/quaketool.dir/nadia/UnifiedWidget.cpp.o"
+"CMakeFiles/quaketool.dir/nadia/UnifiedWidget.cpp.o" \
+"CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/window.cpp.o" \
+"CMakeFiles/quaketool.dir/daniel/physical_pollution_page/window.cpp.o" \
+"CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/line_chart.cpp.o" \
+"CMakeFiles/quaketool.dir/daniel/physical_pollution_page/pie_chart.cpp.o"
 
 # External object files for target quaketool
 quaketool_EXTERNAL_OBJECTS =
@@ -203,14 +263,21 @@ quaketool: CMakeFiles/quaketool.dir/model.cpp.o
 quaketool: CMakeFiles/quaketool.dir/window.cpp.o
 quaketool: CMakeFiles/quaketool.dir/stats.cpp.o
 quaketool: CMakeFiles/quaketool.dir/nadia/UnifiedWidget.cpp.o
+quaketool: CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/window.cpp.o
+quaketool: CMakeFiles/quaketool.dir/daniel/physical_pollution_page/window.cpp.o
+quaketool: CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/line_chart.cpp.o
+quaketool: CMakeFiles/quaketool.dir/daniel/physical_pollution_page/pie_chart.cpp.o
 quaketool: CMakeFiles/quaketool.dir/build.make
+quaketool: /usr/lib64/libQt6Charts.so.6.6.2
+quaketool: /usr/lib64/libQt6OpenGLWidgets.so.6.6.2
 quaketool: /usr/lib64/libQt6Widgets.so.6.6.2
+quaketool: /usr/lib64/libQt6OpenGL.so.6.6.2
 quaketool: /usr/lib64/libQt6Gui.so.6.6.2
 quaketool: /usr/lib64/libQt6Core.so.6.6.2
 quaketool: /usr/lib64/libGLX.so
 quaketool: /usr/lib64/libOpenGL.so
 quaketool: CMakeFiles/quaketool.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable quaketool"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_13) "Linking CXX executable quaketool"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/quaketool.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

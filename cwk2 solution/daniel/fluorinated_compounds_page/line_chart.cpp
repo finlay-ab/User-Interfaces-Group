@@ -1,6 +1,10 @@
 #include <QtWidgets>
-#include <QtCharts>
+#include <QtCharts/QChartView>
+#include <QtCharts/QLineSeries>
 #include "line_chart.hpp"
+#include <QtCharts/QChart>
+#include <QtCharts/QPieSeries>
+
 
 InteractiveLineChart::InteractiveLineChart()
 {

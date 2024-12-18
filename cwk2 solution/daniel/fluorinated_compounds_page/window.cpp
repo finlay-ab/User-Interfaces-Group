@@ -1,5 +1,11 @@
 #include <QtWidgets>
-#include <QtCharts>
+#include <QtCharts/QChartView>
+#include <QtCharts/QLineSeries>
+#include <QtCharts/QChartView>
+#include <QtCharts/QLineSeries>
+#include <QtCharts/QPieSeries>
+#include <QtCharts/QPieSlice>
+#include <QtCharts/QChart>
 #include "line_chart.hpp"
 #include "window.hpp"
 

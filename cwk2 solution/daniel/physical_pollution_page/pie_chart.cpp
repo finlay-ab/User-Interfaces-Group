@@ -1,5 +1,9 @@
 #include <QtWidgets>
-#include <QtCharts>
+#include <QtCharts/QChartView>
+#include <QtCharts/QLineSeries>
+#include <QtCharts/QPieSeries>
+#include <QtCharts/QPieSlice>
+#include <QtCharts/QChart>
 #include "pie_chart.hpp"
 
 InteractivePieChart::InteractivePieChart()

@@ -318,6 +318,58 @@
 		"/usr/lib64/cmake/Qt6Widgets/Qt6WidgetsAdditionalTargetInfo.cmake",
 		"/usr/lib64/cmake/Qt6Widgets/Qt6WidgetsVersionlessTargets.cmake",
 		"/usr/lib64/cmake/Qt6Widgets/Qt6WidgetsMacros.cmake",
+		"/usr/lib64/cmake/Qt6/Qt6ConfigVersion.cmake",
+		"/usr/lib64/cmake/Qt6/Qt6ConfigVersionImpl.cmake",
+		"/usr/lib64/cmake/Qt6/Qt6Config.cmake",
+		"/usr/lib64/cmake/Qt6/Qt6ConfigExtras.cmake",
+		"/usr/lib64/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake",
+		"/usr/lib64/cmake/Qt6/Qt6Targets.cmake",
+		"/usr/lib64/cmake/Qt6/Qt6VersionlessTargets.cmake",
+		"/usr/lib64/cmake/Qt6/QtFeature.cmake",
+		"/usr/share/cmake/Modules/CheckCXXCompilerFlag.cmake",
+		"/usr/lib64/cmake/Qt6/QtFeatureCommon.cmake",
+		"/usr/lib64/cmake/Qt6/QtPublicAppleHelpers.cmake",
+		"/usr/lib64/cmake/Qt6/QtPublicCMakeHelpers.cmake",
+		"/usr/lib64/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake",
+		"/usr/lib64/cmake/Qt6/QtPublicDependencyHelpers.cmake",
+		"/usr/lib64/cmake/Qt6/QtPublicExternalProjectHelpers.cmake",
+		"/usr/lib64/cmake/Qt6/QtPublicFinalizerHelpers.cmake",
+		"/usr/lib64/cmake/Qt6/QtPublicFindPackageHelpers.cmake",
+		"/usr/lib64/cmake/Qt6/QtPublicPluginHelpers.cmake",
+		"/usr/lib64/cmake/Qt6/QtPublicTargetHelpers.cmake",
+		"/usr/lib64/cmake/Qt6/QtPublicTestHelpers.cmake",
+		"/usr/lib64/cmake/Qt6/QtPublicToolHelpers.cmake",
+		"/usr/lib64/cmake/Qt6/QtPublicWalkLibsHelpers.cmake",
+		"/usr/share/cmake/Modules/CMakeFindDependencyMacro.cmake",
+		"/usr/lib64/cmake/Qt6/Qt6Dependencies.cmake",
+		"/usr/lib64/cmake/Qt6Charts/Qt6ChartsConfigVersion.cmake",
+		"/usr/lib64/cmake/Qt6Charts/Qt6ChartsConfigVersionImpl.cmake",
+		"/usr/lib64/cmake/Qt6Charts/Qt6ChartsConfig.cmake",
+		"/usr/share/cmake/Modules/CMakeFindDependencyMacro.cmake",
+		"/usr/lib64/cmake/Qt6Charts/Qt6ChartsDependencies.cmake",
+		"/usr/lib64/cmake/Qt6OpenGL/Qt6OpenGLConfigVersion.cmake",
+		"/usr/lib64/cmake/Qt6OpenGL/Qt6OpenGLConfigVersionImpl.cmake",
+		"/usr/lib64/cmake/Qt6OpenGL/Qt6OpenGLConfig.cmake",
+		"/usr/share/cmake/Modules/CMakeFindDependencyMacro.cmake",
+		"/usr/lib64/cmake/Qt6OpenGL/Qt6OpenGLDependencies.cmake",
+		"/usr/lib64/cmake/Qt6/FindWrapVulkanHeaders.cmake",
+		"/usr/lib64/cmake/Qt6OpenGL/Qt6OpenGLTargets.cmake",
+		"/usr/lib64/cmake/Qt6OpenGL/Qt6OpenGLTargets-relwithdebinfo.cmake",
+		"/usr/lib64/cmake/Qt6OpenGL/Qt6OpenGLAdditionalTargetInfo.cmake",
+		"/usr/lib64/cmake/Qt6OpenGL/Qt6OpenGLVersionlessTargets.cmake",
+		"/usr/lib64/cmake/Qt6OpenGLWidgets/Qt6OpenGLWidgetsConfigVersion.cmake",
+		"/usr/lib64/cmake/Qt6OpenGLWidgets/Qt6OpenGLWidgetsConfigVersionImpl.cmake",
+		"/usr/lib64/cmake/Qt6OpenGLWidgets/Qt6OpenGLWidgetsConfig.cmake",
+		"/usr/share/cmake/Modules/CMakeFindDependencyMacro.cmake",
+		"/usr/lib64/cmake/Qt6OpenGLWidgets/Qt6OpenGLWidgetsDependencies.cmake",
+		"/usr/lib64/cmake/Qt6OpenGLWidgets/Qt6OpenGLWidgetsTargets.cmake",
+		"/usr/lib64/cmake/Qt6OpenGLWidgets/Qt6OpenGLWidgetsTargets-relwithdebinfo.cmake",
+		"/usr/lib64/cmake/Qt6OpenGLWidgets/Qt6OpenGLWidgetsAdditionalTargetInfo.cmake",
+		"/usr/lib64/cmake/Qt6OpenGLWidgets/Qt6OpenGLWidgetsVersionlessTargets.cmake",
+		"/usr/lib64/cmake/Qt6Charts/Qt6ChartsTargets.cmake",
+		"/usr/lib64/cmake/Qt6Charts/Qt6ChartsTargets-relwithdebinfo.cmake",
+		"/usr/lib64/cmake/Qt6Charts/Qt6ChartsAdditionalTargetInfo.cmake",
+		"/usr/lib64/cmake/Qt6Charts/Qt6ChartsVersionlessTargets.cmake",
 		"/usr/share/cmake/Modules/GNUInstallDirs.cmake"
 	],
 	"CMAKE_SOURCE_DIR" : "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution",
@@ -325,6 +377,30 @@
 	"DEP_FILE_RULE_NAME" : "",
 	"HEADERS" : 
 	[
+		[
+			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/fluorinated_compounds_page/line_chart.hpp",
+			"MU",
+			"EIVUVBWO6B/moc_line_chart.cpp",
+			null
+		],
+		[
+			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/fluorinated_compounds_page/window.hpp",
+			"MU",
+			"EIVUVBWO6B/moc_window.cpp",
+			null
+		],
+		[
+			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/physical_pollution_page/pie_chart.hpp",
+			"MU",
+			"XJHDKGCLR4/moc_pie_chart.cpp",
+			null
+		],
+		[
+			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/physical_pollution_page/window.hpp",
+			"MU",
+			"XJHDKGCLR4/moc_window.cpp",
+			null
+		],
 		[
 			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/dataset.hpp",
 			"MU",
@@ -365,7 +441,16 @@
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
 	"INCLUDE_DIR" : "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/quaketool_autogen/include",
 	"MOC_COMPILATION_FILE" : "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/quaketool_autogen/mocs_compilation.cpp",
-	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_NO_DEBUG", "QT_WIDGETS_LIB" ],
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CHARTS_LIB",
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NO_DEBUG",
+		"QT_OPENGLWIDGETS_LIB",
+		"QT_OPENGL_LIB",
+		"QT_WIDGETS_LIB"
+	],
 	"MOC_DEPEND_FILTERS" : 
 	[
 		[
@@ -380,6 +465,9 @@
 		"/usr/lib64/qt6/mkspecs/linux-g++",
 		"/usr/include/qt6/QtWidgets",
 		"/usr/include/qt6/QtGui",
+		"/usr/include/qt6/QtCharts",
+		"/usr/include/qt6/QtOpenGL",
+		"/usr/include/qt6/QtOpenGLWidgets",
 		"/usr/include",
 		"/usr/include/c++/11",
 		"/usr/include/c++/11/x86_64-redhat-linux",
@@ -409,7 +497,7 @@
 	"MOC_RELAXED_MODE" : false,
 	"MOC_SKIP" : [],
 	"MULTI_CONFIG" : false,
-	"PARALLEL" : 12,
+	"PARALLEL" : 24,
 	"PARSE_CACHE_FILE" : "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles/quaketool_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "/usr/lib64/qt6/libexec/moc",
 	"QT_UIC_EXECUTABLE" : "/usr/lib64/qt6/libexec/uic",
@@ -418,6 +506,26 @@
 	"SETTINGS_FILE" : "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles/quaketool_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
+		[
+			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/fluorinated_compounds_page/line_chart.cpp",
+			"MU",
+			null
+		],
+		[
+			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/fluorinated_compounds_page/window.cpp",
+			"MU",
+			null
+		],
+		[
+			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/physical_pollution_page/pie_chart.cpp",
+			"MU",
+			null
+		],
+		[
+			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/physical_pollution_page/window.cpp",
+			"MU",
+			null
+		],
 		[
 			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/dataset.cpp",
 			"MU",

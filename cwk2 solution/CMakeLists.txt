@@ -6,6 +6,10 @@ set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 find_package(Qt6 REQUIRED COMPONENTS Widgets)
+find_package(Qt6 REQUIRED COMPONENTS Charts)
+
+
+
 qt_standard_project_setup()
 
 qt_add_executable(quaketool
@@ -16,9 +20,14 @@ qt_add_executable(quaketool
     window.cpp
     stats.cpp
     nadia/UnifiedWidget.cpp  
+    daniel/fluorinated_compounds_page/window.cpp
+    daniel/physical_pollution_page/window.cpp
+    daniel/fluorinated_compounds_page/line_chart.cpp
+    daniel/physical_pollution_page/pie_chart.cpp
 )
 
 target_link_libraries(quaketool PRIVATE Qt6::Widgets)
+target_link_libraries(quaketool PRIVATE Qt6::Charts)
 
 set_target_properties(quaketool PROPERTIES
     WIN32_EXECUTABLE ON

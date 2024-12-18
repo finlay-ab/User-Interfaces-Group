@@ -1,5 +1,6 @@
 #include <QtWidgets>
-#include <QtCharts>
+#include <QtCharts/QChartView>
+#include <QtCharts/QLineSeries>
 #include "pie_chart.hpp"
 #include "window.hpp"
 

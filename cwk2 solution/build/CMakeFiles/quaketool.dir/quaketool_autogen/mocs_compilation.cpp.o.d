@@ -1,8 +1,8 @@
 CMakeFiles/quaketool.dir/quaketool_autogen/mocs_compilation.cpp.o: \
  /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/build/quaketool_autogen/mocs_compilation.cpp \
  /usr/include/stdc-predef.h \
- /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/build/quaketool_autogen/A46XQFH7UF/moc_UnifiedWidget.cpp \
- /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/build/quaketool_autogen/A46XQFH7UF/../../../nadia/UnifiedWidget.hpp \
+ /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/build/quaketool_autogen/EIVUVBWO6B/moc_line_chart.cpp \
+ /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/build/quaketool_autogen/EIVUVBWO6B/../../../daniel/fluorinated_compounds_page/line_chart.hpp \
  /usr/include/qt6/QtWidgets/QWidget /usr/include/qt6/QtWidgets/qwidget.h \
  /usr/include/qt6/QtWidgets/qtwidgetsglobal.h \
  /usr/include/qt6/QtGui/qtguiglobal.h /usr/include/qt6/QtCore/qglobal.h \
@@ -295,6 +295,11 @@ CMakeFiles/quaketool.dir/quaketool_autogen/mocs_compilation.cpp.o: \
  /usr/include/qt6/QtGui/qfontinfo.h \
  /usr/include/qt6/QtWidgets/qsizepolicy.h \
  /usr/include/qt6/QtGui/qcursor.h /usr/include/qt6/QtGui/qbitmap.h \
+ /usr/include/qt6/QtCore/qtmochelpers.h \
+ /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/build/quaketool_autogen/XJHDKGCLR4/moc_pie_chart.cpp \
+ /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/build/quaketool_autogen/XJHDKGCLR4/../../../daniel/physical_pollution_page/pie_chart.hpp \
+ /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/build/quaketool_autogen/A46XQFH7UF/moc_UnifiedWidget.cpp \
+ /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/build/quaketool_autogen/A46XQFH7UF/../../../nadia/UnifiedWidget.hpp \
  /usr/include/qt6/QtWidgets/QLabel /usr/include/qt6/QtWidgets/qlabel.h \
  /usr/include/qt6/QtWidgets/qframe.h /usr/include/qt6/QtWidgets/qwidget.h \
  /usr/include/qt6/QtGui/qpicture.h /usr/include/qt6/QtCore/qiodevice.h \
@@ -333,7 +338,6 @@ CMakeFiles/quaketool.dir/quaketool_autogen/mocs_compilation.cpp.o: \
  /usr/include/qt6/QtGui/qtextcursor.h \
  /usr/include/qt6/QtGui/qtextformat.h /usr/include/qt6/QtGui/qpen.h \
  /usr/include/qt6/QtGui/qtextoption.h \
- /usr/include/qt6/QtCore/qtmochelpers.h \
  /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/build/quaketool_autogen/EWIEGA46WW/moc_window.cpp \
  /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/build/quaketool_autogen/EWIEGA46WW/../../../window.hpp \
  /usr/include/qt6/QtWidgets/QMainWindow \
