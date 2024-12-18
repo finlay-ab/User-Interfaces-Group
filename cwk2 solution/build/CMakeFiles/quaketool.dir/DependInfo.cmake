@@ -18,6 +18,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/nadia/UnifiedWidget.cpp" "CMakeFiles/quaketool.dir/nadia/UnifiedWidget.cpp.o" "gcc" "CMakeFiles/quaketool.dir/nadia/UnifiedWidget.cpp.o.d"
   "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/quake.cpp" "CMakeFiles/quaketool.dir/quake.cpp.o" "gcc" "CMakeFiles/quaketool.dir/quake.cpp.o.d"
   "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/quaketool_autogen/mocs_compilation.cpp" "CMakeFiles/quaketool.dir/quaketool_autogen/mocs_compilation.cpp.o" "gcc" "CMakeFiles/quaketool.dir/quaketool_autogen/mocs_compilation.cpp.o.d"
+  "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/rameesah/overviewWidget.cpp" "CMakeFiles/quaketool.dir/rameesah/overviewWidget.cpp.o" "gcc" "CMakeFiles/quaketool.dir/rameesah/overviewWidget.cpp.o.d"
   "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/stats.cpp" "CMakeFiles/quaketool.dir/stats.cpp.o" "gcc" "CMakeFiles/quaketool.dir/stats.cpp.o.d"
   "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/window.cpp" "CMakeFiles/quaketool.dir/window.cpp.o" "gcc" "CMakeFiles/quaketool.dir/window.cpp.o.d"
   )

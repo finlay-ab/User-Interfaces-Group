@@ -382,6 +382,30 @@ quaketool_autogen/mocs_compilation.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/quaketool.dir/build.make CMakeFiles/quaketool.dir/quaketool_autogen/mocs_compilation.cpp.s
 .PHONY : quaketool_autogen/mocs_compilation.cpp.s
 
+rameesah/overviewWidget.o: rameesah/overviewWidget.cpp.o
+.PHONY : rameesah/overviewWidget.o
+
+# target to build an object file
+rameesah/overviewWidget.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/quaketool.dir/build.make CMakeFiles/quaketool.dir/rameesah/overviewWidget.cpp.o
+.PHONY : rameesah/overviewWidget.cpp.o
+
+rameesah/overviewWidget.i: rameesah/overviewWidget.cpp.i
+.PHONY : rameesah/overviewWidget.i
+
+# target to preprocess a source file
+rameesah/overviewWidget.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/quaketool.dir/build.make CMakeFiles/quaketool.dir/rameesah/overviewWidget.cpp.i
+.PHONY : rameesah/overviewWidget.cpp.i
+
+rameesah/overviewWidget.s: rameesah/overviewWidget.cpp.s
+.PHONY : rameesah/overviewWidget.s
+
+# target to generate assembly for a file
+rameesah/overviewWidget.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/quaketool.dir/build.make CMakeFiles/quaketool.dir/rameesah/overviewWidget.cpp.s
+.PHONY : rameesah/overviewWidget.cpp.s
+
 stats.o: stats.cpp.o
 .PHONY : stats.o
 
@@ -470,6 +494,9 @@ help:
 	@echo "... quaketool_autogen/mocs_compilation.o"
 	@echo "... quaketool_autogen/mocs_compilation.i"
 	@echo "... quaketool_autogen/mocs_compilation.s"
+	@echo "... rameesah/overviewWidget.o"
+	@echo "... rameesah/overviewWidget.i"
+	@echo "... rameesah/overviewWidget.s"
 	@echo "... stats.o"
 	@echo "... stats.i"
 	@echo "... stats.s"

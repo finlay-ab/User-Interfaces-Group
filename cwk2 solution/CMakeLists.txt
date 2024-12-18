@@ -24,6 +24,8 @@ qt_add_executable(quaketool
     daniel/physical_pollution_page/window.cpp
     daniel/fluorinated_compounds_page/line_chart.cpp
     daniel/physical_pollution_page/pie_chart.cpp
+    rameesah/overviewWidget.cpp
+    rameesah/overviewWidget.hpp
 )
 
 target_link_libraries(quaketool PRIVATE Qt6::Widgets)

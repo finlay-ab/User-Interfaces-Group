@@ -22,6 +22,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/quaketool.dir/quake.cpp.o.d"
   "CMakeFiles/quaketool.dir/quaketool_autogen/mocs_compilation.cpp.o"
   "CMakeFiles/quaketool.dir/quaketool_autogen/mocs_compilation.cpp.o.d"
+  "CMakeFiles/quaketool.dir/rameesah/overviewWidget.cpp.o"
+  "CMakeFiles/quaketool.dir/rameesah/overviewWidget.cpp.o.d"
   "CMakeFiles/quaketool.dir/stats.cpp.o"
   "CMakeFiles/quaketool.dir/stats.cpp.o.d"
   "CMakeFiles/quaketool.dir/window.cpp.o"
