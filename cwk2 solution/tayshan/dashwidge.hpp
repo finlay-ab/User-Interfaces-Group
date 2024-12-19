@@ -4,6 +4,7 @@
     #ifndef dashWidge_H
     #define dashWidge_H
     #include <QtWidgets>
+    #include "model.hpp"
      
     //forward declarations
     class QVBoxLayout;
@@ -12,6 +13,7 @@
     class QPushButton;
     class QButtonGroup;
     class QString;
+    class QGridLayout;
      
     class dashWidge : public QWidget //inherit from QWidget
     {
@@ -21,7 +23,7 @@
      
     private: 
     //contained widgets:
-        QHBoxLayout *mainLayout;  
+        QGridLayout *mainLayout;  
         QHBoxLayout *pagebuttonLayout;
         QVBoxLayout *summarytextLayout;
         QVBoxLayout *summarybuttonLayout;
@@ -34,6 +36,8 @@
         QPushButton *info5Button;
         QButtonGroup *infoButtonGroup;
         QTabWidget *mainTab;
+        QTableView *table;
+        QuakeModel model;
         int tabIndex;
 
     signals:
