@@ -1,5 +1,5 @@
     #include "dashwidge.hpp"
-    #include "stats.hpp"
+    #include "../stats.hpp"
     #include <QVBoxLayout>
     #include <QHBoxLayout>
     #include <QLabel>

@@ -4,7 +4,7 @@
     #ifndef dashWidge_H
     #define dashWidge_H
     #include <QtWidgets>
-    #include "model.hpp"
+    #include "../model.hpp"
      
     //forward declarations
     class QVBoxLayout;
