@@ -298,20 +298,26 @@ CMakeFiles/quaketool.dir/quaketool_autogen/mocs_compilation.cpp.o: \
  /usr/include/qt6/QtCore/qtmochelpers.h \
  /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/build/quaketool_autogen/XJHDKGCLR4/moc_pie_chart.cpp \
  /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/build/quaketool_autogen/XJHDKGCLR4/../../../daniel/physical_pollution_page/pie_chart.hpp \
- /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/build/quaketool_autogen/A46XQFH7UF/moc_UnifiedWidget.cpp \
- /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/build/quaketool_autogen/A46XQFH7UF/../../../nadia/UnifiedWidget.hpp \
- /usr/include/qt6/QtWidgets/QLabel /usr/include/qt6/QtWidgets/qlabel.h \
- /usr/include/qt6/QtWidgets/qframe.h /usr/include/qt6/QtWidgets/qwidget.h \
- /usr/include/qt6/QtGui/qpicture.h /usr/include/qt6/QtCore/qiodevice.h \
- /usr/include/qt6/QtGui/qtextdocument.h /usr/include/qt6/QtCore/qurl.h \
- /usr/include/qt6/QtWidgets/QPushButton \
- /usr/include/qt6/QtWidgets/qpushbutton.h \
- /usr/include/qt6/QtWidgets/qabstractbutton.h \
+ /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/build/quaketool_autogen/A46XQFH7UF/moc_complianceDashboard.cpp \
+ /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/build/quaketool_autogen/A46XQFH7UF/../../../nadia/complianceDashboard.hpp \
+ /usr/include/qt6/QtCore/QDateTime /usr/include/qt6/QtCore/qdatetime.h \
+ /usr/include/qt6/QtCore/qcalendar.h /usr/include/qt6/QtCore/qlocale.h \
+ /usr/include/qt6/QtCore/QString /usr/include/qt6/QtCore/qstring.h \
+ /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/build/quaketool_autogen/X7NV6K2PTN/moc_PCBMonitor.cpp \
+ /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/build/quaketool_autogen/X7NV6K2PTN/../../../rameesah/PCBMonitor.hpp \
+ /usr/include/qt6/QtGui/QColor /usr/include/qt6/QtGui/qcolor.h \
+ /usr/include/qt6/QtWidgets/QVBoxLayout \
+ /usr/include/qt6/QtWidgets/qboxlayout.h \
+ /usr/include/qt6/QtWidgets/qlayout.h \
+ /usr/include/qt6/QtWidgets/qlayoutitem.h \
+ /usr/include/qt6/QtWidgets/qboxlayout.h \
+ /usr/include/qt6/QtWidgets/qgridlayout.h \
+ /usr/include/qt6/QtWidgets/QHBoxLayout \
  /usr/include/qt6/QtWidgets/QComboBox \
  /usr/include/qt6/QtWidgets/qcombobox.h \
+ /usr/include/qt6/QtWidgets/qwidget.h \
  /usr/include/qt6/QtWidgets/qabstractitemdelegate.h \
  /usr/include/qt6/QtWidgets/qstyleoption.h \
- /usr/include/qt6/QtCore/qlocale.h \
  /usr/include/qt6/QtWidgets/qabstractspinbox.h \
  /usr/include/qt6/QtGui/qvalidator.h \
  /usr/include/qt6/QtCore/qregularexpression.h \
@@ -320,30 +326,17 @@ CMakeFiles/quaketool.dir/quaketool_autogen/mocs_compilation.cpp.o: \
  /usr/include/qt6/QtWidgets/qstyle.h /usr/include/qt6/QtWidgets/qtabbar.h \
  /usr/include/qt6/QtWidgets/qtabwidget.h \
  /usr/include/qt6/QtWidgets/qrubberband.h \
+ /usr/include/qt6/QtWidgets/qframe.h \
  /usr/include/qt6/QtCore/qabstractitemmodel.h \
- /usr/include/qt6/QtWidgets/QTableView \
- /usr/include/qt6/QtWidgets/qtableview.h \
- /usr/include/qt6/QtWidgets/qabstractitemview.h \
+ /usr/include/qt6/QtWidgets/QLabel /usr/include/qt6/QtWidgets/qlabel.h \
+ /usr/include/qt6/QtGui/qpicture.h /usr/include/qt6/QtCore/qiodevice.h \
+ /usr/include/qt6/QtGui/qtextdocument.h /usr/include/qt6/QtCore/qurl.h \
+ /usr/include/qt6/QtWidgets/QTextEdit \
+ /usr/include/qt6/QtWidgets/qtextedit.h \
  /usr/include/qt6/QtWidgets/qabstractscrollarea.h \
- /usr/include/qt6/QtCore/qitemselectionmodel.h \
- /usr/include/qt6/QtWidgets/QVBoxLayout \
- /usr/include/qt6/QtWidgets/qboxlayout.h \
- /usr/include/qt6/QtWidgets/qlayout.h \
- /usr/include/qt6/QtWidgets/qlayoutitem.h \
- /usr/include/qt6/QtWidgets/qboxlayout.h \
- /usr/include/qt6/QtWidgets/qgridlayout.h \
- /usr/include/qt6/QtWidgets/QHBoxLayout \
- /usr/include/qt6/QtWidgets/QLineEdit \
- /usr/include/qt6/QtWidgets/qlineedit.h \
+ /usr/include/qt6/QtGui/qtextoption.h \
  /usr/include/qt6/QtGui/qtextcursor.h \
  /usr/include/qt6/QtGui/qtextformat.h /usr/include/qt6/QtGui/qpen.h \
- /usr/include/qt6/QtGui/qtextoption.h \
- /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/build/quaketool_autogen/X7NV6K2PTN/moc_PCBMonitor.cpp \
- /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/build/quaketool_autogen/X7NV6K2PTN/../../../rameesah/PCBMonitor.hpp \
- /usr/include/qt6/QtGui/QColor /usr/include/qt6/QtGui/qcolor.h \
- /usr/include/qt6/QtWidgets/QTextEdit \
- /usr/include/qt6/QtWidgets/qtextedit.h /usr/include/qt6/QtCore/QDateTime \
- /usr/include/qt6/QtCore/qdatetime.h /usr/include/qt6/QtCore/qcalendar.h \
  /usr/include/qt6/QtWidgets/QToolTip \
  /usr/include/qt6/QtWidgets/qtooltip.h /usr/include/qt6/QtGui/QCursor \
  /usr/include/qt6/QtGui/qcursor.h /usr/include/qt6/QtWidgets/QFrame \
@@ -399,9 +392,13 @@ CMakeFiles/quaketool.dir/quaketool_autogen/mocs_compilation.cpp.o: \
  /usr/include/qt6/QtCharts/qvalueaxis.h \
  /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/build/quaketool_autogen/X7NV6K2PTN/moc_overviewWidget.cpp \
  /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/build/quaketool_autogen/X7NV6K2PTN/../../../rameesah/overviewWidget.hpp \
+ /usr/include/qt6/QtWidgets/QLineEdit \
+ /usr/include/qt6/QtWidgets/qlineedit.h \
  /usr/include/qt6/QtWidgets/QListWidget \
  /usr/include/qt6/QtWidgets/qlistwidget.h \
  /usr/include/qt6/QtWidgets/qlistview.h \
+ /usr/include/qt6/QtWidgets/qabstractitemview.h \
+ /usr/include/qt6/QtCore/qitemselectionmodel.h \
  /usr/include/qt6/QtWidgets/QApplication \
  /usr/include/qt6/QtWidgets/qapplication.h \
  /usr/include/qt6/QtCore/qcoreapplication.h \
@@ -706,7 +703,7 @@ CMakeFiles/quaketool.dir/quaketool_autogen/mocs_compilation.cpp.o: \
  /usr/include/qt6/QtCore/qsortfilterproxymodel.h \
  /usr/include/qt6/QtCore/qstack.h \
  /usr/include/qt6/QtCore/qstandardpaths.h \
- /usr/include/qt6/QtCore/qstorageinfo.h /usr/include/qt6/QtCore/qstring.h \
+ /usr/include/qt6/QtCore/qstorageinfo.h \
  /usr/include/qt6/QtCore/qstringalgorithms.h \
  /usr/include/qt6/QtCore/qstringbuilder.h \
  /usr/include/qt6/QtCore/qstringconverter.h \
@@ -874,6 +871,7 @@ CMakeFiles/quaketool.dir/quaketool_autogen/mocs_compilation.cpp.o: \
  /usr/include/qt6/QtWidgets/qbuttongroup.h \
  /usr/include/qt6/QtWidgets/qcalendarwidget.h \
  /usr/include/qt6/QtWidgets/qcheckbox.h \
+ /usr/include/qt6/QtWidgets/qabstractbutton.h \
  /usr/include/qt6/QtWidgets/qcolordialog.h \
  /usr/include/qt6/QtWidgets/qcolormap.h \
  /usr/include/qt6/QtWidgets/qcolumnview.h \
@@ -940,6 +938,7 @@ CMakeFiles/quaketool.dir/quaketool_autogen/mocs_compilation.cpp.o: \
  /usr/include/qt6/QtWidgets/qprogressdialog.h \
  /usr/include/qt6/QtWidgets/qproxystyle.h \
  /usr/include/qt6/QtWidgets/QCommonStyle \
+ /usr/include/qt6/QtWidgets/qpushbutton.h \
  /usr/include/qt6/QtWidgets/qradiobutton.h \
  /usr/include/qt6/QtWidgets/qrubberband.h \
  /usr/include/qt6/QtWidgets/qscrollarea.h \
@@ -966,6 +965,7 @@ CMakeFiles/quaketool.dir/quaketool_autogen/mocs_compilation.cpp.o: \
  /usr/include/qt6/QtWidgets/qstyleplugin.h \
  /usr/include/qt6/QtWidgets/qsystemtrayicon.h \
  /usr/include/qt6/QtWidgets/qtabbar.h \
+ /usr/include/qt6/QtWidgets/qtableview.h \
  /usr/include/qt6/QtWidgets/qtablewidget.h \
  /usr/include/qt6/QtWidgets/qtableview.h \
  /usr/include/qt6/QtWidgets/qtabwidget.h \

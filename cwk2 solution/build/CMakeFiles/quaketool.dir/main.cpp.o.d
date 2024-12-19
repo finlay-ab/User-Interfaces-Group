@@ -934,18 +934,15 @@ CMakeFiles/quaketool.dir/main.cpp.o: \
  /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/dataset.hpp \
  /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/quake.hpp \
  /usr/include/c++/11/iostream \
- /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/nadia/UnifiedWidget.hpp \
- /usr/include/qt6/QtWidgets/QWidget /usr/include/qt6/QtWidgets/QLabel \
- /usr/include/qt6/QtWidgets/QPushButton \
- /usr/include/qt6/QtWidgets/QComboBox \
- /usr/include/qt6/QtWidgets/QTableView \
- /usr/include/qt6/QtWidgets/QVBoxLayout \
- /usr/include/qt6/QtWidgets/QHBoxLayout \
- /usr/include/qt6/QtWidgets/QLineEdit \
+ /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/nadia/complianceDashboard.hpp \
+ /usr/include/qt6/QtWidgets/QWidget /usr/include/qt6/QtCore/QDateTime \
+ /usr/include/qt6/QtCore/QString \
  /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/tayshan/window.hpp \
  /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/rameesah/PCBMonitor.hpp \
- /usr/include/qt6/QtGui/QColor /usr/include/qt6/QtWidgets/QTextEdit \
- /usr/include/qt6/QtCore/QDateTime /usr/include/qt6/QtWidgets/QToolTip \
+ /usr/include/qt6/QtGui/QColor /usr/include/qt6/QtWidgets/QVBoxLayout \
+ /usr/include/qt6/QtWidgets/QHBoxLayout \
+ /usr/include/qt6/QtWidgets/QComboBox /usr/include/qt6/QtWidgets/QLabel \
+ /usr/include/qt6/QtWidgets/QTextEdit /usr/include/qt6/QtWidgets/QToolTip \
  /usr/include/qt6/QtGui/QCursor /usr/include/qt6/QtWidgets/QFrame \
  /usr/include/qt6/QtCharts/QChartView \
  /usr/include/qt6/QtCharts/qchartview.h \
@@ -973,6 +970,7 @@ CMakeFiles/quaketool.dir/main.cpp.o: \
  /usr/include/qt6/QtCharts/QValueAxis \
  /usr/include/qt6/QtCharts/qvalueaxis.h \
  /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/rameesah/overviewWidget.hpp \
+ /usr/include/qt6/QtWidgets/QLineEdit \
  /usr/include/qt6/QtWidgets/QListWidget \
  /usr/include/qt6/QtWidgets/QApplication \
  /usr/include/qt6/QtWidgets/QMessageBox /usr/include/qt6/QtCore/QTimer \

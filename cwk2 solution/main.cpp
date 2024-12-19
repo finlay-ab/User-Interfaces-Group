@@ -1,6 +1,6 @@
 #include <QtWidgets>
 #include "window.hpp"
-#include "nadia/UnifiedWidget.hpp"  
+#include "nadia/complianceDashboard.hpp"  
 #include "tayshan/window.hpp"
 #include "rameesah/PCBMonitor.hpp"
 #include "rameesah/overviewWidget.hpp"
@@ -16,7 +16,7 @@ int main(int argc, char* argv[])
   window.show();
 
   // nadia
-  UnifiedWidget unifiedWidget;
+  ComplianceDashboard unifiedWidget;
   unifiedWidget.show();
 
   // tayshan

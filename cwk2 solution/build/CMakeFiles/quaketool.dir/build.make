@@ -167,19 +167,19 @@ CMakeFiles/quaketool.dir/stats.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/quaketool.dir/stats.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/stats.cpp" -o CMakeFiles/quaketool.dir/stats.cpp.s
 
-CMakeFiles/quaketool.dir/nadia/UnifiedWidget.cpp.o: CMakeFiles/quaketool.dir/flags.make
-CMakeFiles/quaketool.dir/nadia/UnifiedWidget.cpp.o: /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/nadia/UnifiedWidget.cpp
-CMakeFiles/quaketool.dir/nadia/UnifiedWidget.cpp.o: CMakeFiles/quaketool.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/quaketool.dir/nadia/UnifiedWidget.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/quaketool.dir/nadia/UnifiedWidget.cpp.o -MF CMakeFiles/quaketool.dir/nadia/UnifiedWidget.cpp.o.d -o CMakeFiles/quaketool.dir/nadia/UnifiedWidget.cpp.o -c "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/nadia/UnifiedWidget.cpp"
+CMakeFiles/quaketool.dir/nadia/complianceDashboard.cpp.o: CMakeFiles/quaketool.dir/flags.make
+CMakeFiles/quaketool.dir/nadia/complianceDashboard.cpp.o: /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/nadia/complianceDashboard.cpp
+CMakeFiles/quaketool.dir/nadia/complianceDashboard.cpp.o: CMakeFiles/quaketool.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/quaketool.dir/nadia/complianceDashboard.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/quaketool.dir/nadia/complianceDashboard.cpp.o -MF CMakeFiles/quaketool.dir/nadia/complianceDashboard.cpp.o.d -o CMakeFiles/quaketool.dir/nadia/complianceDashboard.cpp.o -c "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/nadia/complianceDashboard.cpp"
 
-CMakeFiles/quaketool.dir/nadia/UnifiedWidget.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/quaketool.dir/nadia/UnifiedWidget.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/nadia/UnifiedWidget.cpp" > CMakeFiles/quaketool.dir/nadia/UnifiedWidget.cpp.i
+CMakeFiles/quaketool.dir/nadia/complianceDashboard.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/quaketool.dir/nadia/complianceDashboard.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/nadia/complianceDashboard.cpp" > CMakeFiles/quaketool.dir/nadia/complianceDashboard.cpp.i
 
-CMakeFiles/quaketool.dir/nadia/UnifiedWidget.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/quaketool.dir/nadia/UnifiedWidget.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/nadia/UnifiedWidget.cpp" -o CMakeFiles/quaketool.dir/nadia/UnifiedWidget.cpp.s
+CMakeFiles/quaketool.dir/nadia/complianceDashboard.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/quaketool.dir/nadia/complianceDashboard.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/nadia/complianceDashboard.cpp" -o CMakeFiles/quaketool.dir/nadia/complianceDashboard.cpp.s
 
 CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/window.cpp.o: CMakeFiles/quaketool.dir/flags.make
 CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/window.cpp.o: /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/daniel/fluorinated_compounds_page/window.cpp
@@ -316,7 +316,7 @@ quaketool_OBJECTS = \
 "CMakeFiles/quaketool.dir/model.cpp.o" \
 "CMakeFiles/quaketool.dir/window.cpp.o" \
 "CMakeFiles/quaketool.dir/stats.cpp.o" \
-"CMakeFiles/quaketool.dir/nadia/UnifiedWidget.cpp.o" \
+"CMakeFiles/quaketool.dir/nadia/complianceDashboard.cpp.o" \
 "CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/window.cpp.o" \
 "CMakeFiles/quaketool.dir/daniel/physical_pollution_page/window.cpp.o" \
 "CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/line_chart.cpp.o" \
@@ -337,7 +337,7 @@ quaketool: CMakeFiles/quaketool.dir/dataset.cpp.o
 quaketool: CMakeFiles/quaketool.dir/model.cpp.o
 quaketool: CMakeFiles/quaketool.dir/window.cpp.o
 quaketool: CMakeFiles/quaketool.dir/stats.cpp.o
-quaketool: CMakeFiles/quaketool.dir/nadia/UnifiedWidget.cpp.o
+quaketool: CMakeFiles/quaketool.dir/nadia/complianceDashboard.cpp.o
 quaketool: CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/window.cpp.o
 quaketool: CMakeFiles/quaketool.dir/daniel/physical_pollution_page/window.cpp.o
 quaketool: CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/line_chart.cpp.o

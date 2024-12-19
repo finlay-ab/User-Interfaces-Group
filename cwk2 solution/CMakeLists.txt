@@ -21,7 +21,7 @@ qt_add_executable(quaketool
     model.cpp
     window.cpp
     stats.cpp
-    nadia/UnifiedWidget.cpp  
+    nadia/complianceDashboard.cpp  
     daniel/fluorinated_compounds_page/window.cpp
     daniel/physical_pollution_page/window.cpp
     daniel/fluorinated_compounds_page/line_chart.cpp

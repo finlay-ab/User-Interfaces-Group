@@ -310,29 +310,29 @@ model.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/quaketool.dir/build.make CMakeFiles/quaketool.dir/model.cpp.s
 .PHONY : model.cpp.s
 
-nadia/UnifiedWidget.o: nadia/UnifiedWidget.cpp.o
-.PHONY : nadia/UnifiedWidget.o
+nadia/complianceDashboard.o: nadia/complianceDashboard.cpp.o
+.PHONY : nadia/complianceDashboard.o
 
 # target to build an object file
-nadia/UnifiedWidget.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/quaketool.dir/build.make CMakeFiles/quaketool.dir/nadia/UnifiedWidget.cpp.o
-.PHONY : nadia/UnifiedWidget.cpp.o
+nadia/complianceDashboard.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/quaketool.dir/build.make CMakeFiles/quaketool.dir/nadia/complianceDashboard.cpp.o
+.PHONY : nadia/complianceDashboard.cpp.o
 
-nadia/UnifiedWidget.i: nadia/UnifiedWidget.cpp.i
-.PHONY : nadia/UnifiedWidget.i
+nadia/complianceDashboard.i: nadia/complianceDashboard.cpp.i
+.PHONY : nadia/complianceDashboard.i
 
 # target to preprocess a source file
-nadia/UnifiedWidget.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/quaketool.dir/build.make CMakeFiles/quaketool.dir/nadia/UnifiedWidget.cpp.i
-.PHONY : nadia/UnifiedWidget.cpp.i
+nadia/complianceDashboard.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/quaketool.dir/build.make CMakeFiles/quaketool.dir/nadia/complianceDashboard.cpp.i
+.PHONY : nadia/complianceDashboard.cpp.i
 
-nadia/UnifiedWidget.s: nadia/UnifiedWidget.cpp.s
-.PHONY : nadia/UnifiedWidget.s
+nadia/complianceDashboard.s: nadia/complianceDashboard.cpp.s
+.PHONY : nadia/complianceDashboard.s
 
 # target to generate assembly for a file
-nadia/UnifiedWidget.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/quaketool.dir/build.make CMakeFiles/quaketool.dir/nadia/UnifiedWidget.cpp.s
-.PHONY : nadia/UnifiedWidget.cpp.s
+nadia/complianceDashboard.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/quaketool.dir/build.make CMakeFiles/quaketool.dir/nadia/complianceDashboard.cpp.s
+.PHONY : nadia/complianceDashboard.cpp.s
 
 quake.o: quake.cpp.o
 .PHONY : quake.o
@@ -581,9 +581,9 @@ help:
 	@echo "... model.o"
 	@echo "... model.i"
 	@echo "... model.s"
-	@echo "... nadia/UnifiedWidget.o"
-	@echo "... nadia/UnifiedWidget.i"
-	@echo "... nadia/UnifiedWidget.s"
+	@echo "... nadia/complianceDashboard.o"
+	@echo "... nadia/complianceDashboard.i"
+	@echo "... nadia/complianceDashboard.s"
 	@echo "... quake.o"
 	@echo "... quake.i"
 	@echo "... quake.s"

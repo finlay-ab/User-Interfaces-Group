@@ -1,7 +1,7 @@
-CMakeFiles/quaketool.dir/nadia/UnifiedWidget.cpp.o: \
- /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/nadia/UnifiedWidget.cpp \
+CMakeFiles/quaketool.dir/nadia/complianceDashboard.cpp.o: \
+ /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/nadia/complianceDashboard.cpp \
  /usr/include/stdc-predef.h \
- /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/nadia/UnifiedWidget.hpp \
+ /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/nadia/complianceDashboard.hpp \
  /usr/include/qt6/QtWidgets/QWidget /usr/include/qt6/QtWidgets/qwidget.h \
  /usr/include/qt6/QtWidgets/qtwidgetsglobal.h \
  /usr/include/qt6/QtGui/qtguiglobal.h /usr/include/qt6/QtCore/qglobal.h \
@@ -294,18 +294,21 @@ CMakeFiles/quaketool.dir/nadia/UnifiedWidget.cpp.o: \
  /usr/include/qt6/QtGui/qfontinfo.h \
  /usr/include/qt6/QtWidgets/qsizepolicy.h \
  /usr/include/qt6/QtGui/qcursor.h /usr/include/qt6/QtGui/qbitmap.h \
- /usr/include/qt6/QtWidgets/QLabel /usr/include/qt6/QtWidgets/qlabel.h \
+ /usr/include/qt6/QtCore/QDateTime /usr/include/qt6/QtCore/qdatetime.h \
+ /usr/include/qt6/QtCore/qcalendar.h /usr/include/qt6/QtCore/qlocale.h \
+ /usr/include/qt6/QtCore/QString /usr/include/qt6/QtCore/qstring.h \
+ /usr/include/qt6/QtGui/QStandardItemModel \
+ /usr/include/qt6/QtGui/qstandarditemmodel.h \
+ /usr/include/qt6/QtCore/qabstractitemmodel.h \
+ /usr/include/qt6/QtGui/QStandardItem \
+ /usr/include/qt6/QtWidgets/QTableView \
+ /usr/include/qt6/QtWidgets/qtableview.h \
+ /usr/include/qt6/QtWidgets/qabstractitemview.h \
+ /usr/include/qt6/QtWidgets/qabstractscrollarea.h \
  /usr/include/qt6/QtWidgets/qframe.h /usr/include/qt6/QtWidgets/qwidget.h \
- /usr/include/qt6/QtGui/qpicture.h /usr/include/qt6/QtCore/qiodevice.h \
- /usr/include/qt6/QtGui/qtextdocument.h /usr/include/qt6/QtCore/qurl.h \
- /usr/include/qt6/QtWidgets/QPushButton \
- /usr/include/qt6/QtWidgets/qpushbutton.h \
- /usr/include/qt6/QtWidgets/qabstractbutton.h \
- /usr/include/qt6/QtWidgets/QComboBox \
- /usr/include/qt6/QtWidgets/qcombobox.h \
+ /usr/include/qt6/QtCore/qitemselectionmodel.h \
  /usr/include/qt6/QtWidgets/qabstractitemdelegate.h \
  /usr/include/qt6/QtWidgets/qstyleoption.h \
- /usr/include/qt6/QtCore/qlocale.h \
  /usr/include/qt6/QtWidgets/qabstractspinbox.h \
  /usr/include/qt6/QtGui/qvalidator.h \
  /usr/include/qt6/QtCore/qregularexpression.h \
@@ -314,12 +317,6 @@ CMakeFiles/quaketool.dir/nadia/UnifiedWidget.cpp.o: \
  /usr/include/qt6/QtWidgets/qstyle.h /usr/include/qt6/QtWidgets/qtabbar.h \
  /usr/include/qt6/QtWidgets/qtabwidget.h \
  /usr/include/qt6/QtWidgets/qrubberband.h \
- /usr/include/qt6/QtCore/qabstractitemmodel.h \
- /usr/include/qt6/QtWidgets/QTableView \
- /usr/include/qt6/QtWidgets/qtableview.h \
- /usr/include/qt6/QtWidgets/qabstractitemview.h \
- /usr/include/qt6/QtWidgets/qabstractscrollarea.h \
- /usr/include/qt6/QtCore/qitemselectionmodel.h \
  /usr/include/qt6/QtWidgets/QVBoxLayout \
  /usr/include/qt6/QtWidgets/qboxlayout.h \
  /usr/include/qt6/QtWidgets/qlayout.h \
@@ -327,10 +324,31 @@ CMakeFiles/quaketool.dir/nadia/UnifiedWidget.cpp.o: \
  /usr/include/qt6/QtWidgets/qboxlayout.h \
  /usr/include/qt6/QtWidgets/qgridlayout.h \
  /usr/include/qt6/QtWidgets/QHBoxLayout \
- /usr/include/qt6/QtWidgets/QLineEdit \
- /usr/include/qt6/QtWidgets/qlineedit.h \
+ /usr/include/qt6/QtWidgets/QComboBox \
+ /usr/include/qt6/QtWidgets/qcombobox.h /usr/include/qt6/QtWidgets/QLabel \
+ /usr/include/qt6/QtWidgets/qlabel.h /usr/include/qt6/QtGui/qpicture.h \
+ /usr/include/qt6/QtCore/qiodevice.h \
+ /usr/include/qt6/QtGui/qtextdocument.h /usr/include/qt6/QtCore/qurl.h \
+ /usr/include/qt6/QtWidgets/QTextEdit \
+ /usr/include/qt6/QtWidgets/qtextedit.h \
+ /usr/include/qt6/QtGui/qtextoption.h \
  /usr/include/qt6/QtGui/qtextcursor.h \
  /usr/include/qt6/QtGui/qtextformat.h /usr/include/qt6/QtGui/qpen.h \
- /usr/include/qt6/QtGui/qtextoption.h /usr/include/qt6/QtGui/QPalette \
- /usr/include/qt6/QtGui/qpalette.h /usr/include/qt6/QtGui/QFont \
- /usr/include/qt6/QtGui/qfont.h
+ /usr/include/qt6/QtWidgets/QHeaderView \
+ /usr/include/qt6/QtWidgets/qheaderview.h \
+ /usr/include/qt6/QtWidgets/QMessageBox \
+ /usr/include/qt6/QtWidgets/qmessagebox.h \
+ /usr/include/qt6/QtWidgets/qdialog.h \
+ /usr/include/qt6/QtWidgets/qdialogbuttonbox.h \
+ /usr/include/qt6/QtWidgets/QStyledItemDelegate \
+ /usr/include/qt6/QtWidgets/qstyleditemdelegate.h \
+ /usr/include/qt6/QtGui/QPainter /usr/include/qt6/QtGui/qpainter.h \
+ /usr/include/c++/11/random /usr/include/c++/11/bits/random.h \
+ /usr/include/c++/11/x86_64-redhat-linux/bits/opt_random.h \
+ /usr/lib/gcc/x86_64-redhat-linux/11/include/pmmintrin.h \
+ /usr/lib/gcc/x86_64-redhat-linux/11/include/emmintrin.h \
+ /usr/lib/gcc/x86_64-redhat-linux/11/include/xmmintrin.h \
+ /usr/lib/gcc/x86_64-redhat-linux/11/include/mmintrin.h \
+ /usr/lib/gcc/x86_64-redhat-linux/11/include/mm_malloc.h \
+ /usr/lib/gcc/x86_64-redhat-linux/11/include/mwaitintrin.h \
+ /usr/include/c++/11/bits/random.tcc
