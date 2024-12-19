@@ -24,9 +24,6 @@ CMAKE_AR:FILEPATH=/usr/bin/ar
 // MinSizeRel ...
 CMAKE_BUILD_TYPE:STRING=
 
-//Enable colored diagnostics throughout.
-CMAKE_COLOR_DIAGNOSTICS:BOOL=1
-
 //Enable/Disable color output during build.
 CMAKE_COLOR_MAKEFILE:BOOL=ON
 
@@ -350,7 +347,7 @@ cwk2_BINARY_DIR:STATIC=/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 
 cwk2_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
-cwk2_SOURCE_DIR:STATIC=/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution
+cwk2_SOURCE_DIR:STATIC=/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution
 
 //Path to a library.
 pkgcfg_lib_PKG_XKB_xkbcommon:FILEPATH=/usr/lib64/libxkbcommon.so

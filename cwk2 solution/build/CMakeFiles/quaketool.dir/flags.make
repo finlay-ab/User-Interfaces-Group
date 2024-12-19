@@ -6,5 +6,5 @@ CXX_DEFINES = -DQT_CHARTS_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPEN
 
 CXX_INCLUDES = -I"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/quaketool_autogen/include" -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib64/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtCharts -isystem /usr/include/qt6/QtOpenGL -isystem /usr/include/qt6/QtOpenGLWidgets
 
-CXX_FLAGS = -std=gnu++17
+CXX_FLAGS = -std=gnu++17 -fdiagnostics-color=always
 

@@ -4,17 +4,12 @@
 #include <stdexcept>
 #include <iostream>
 #include "window.hpp"
-#include "stats.hpp"
 
 static const int MIN_WIDTH = 620;
 
-
-QuakeWindow::QuakeWindow(): QMainWindow(), statsDialog(nullptr)
+QuakeWindow::QuakeWindow(): QMainWindow()
 {
   createMainWidget();
-  createFileSelectors();
-  createButtons();
-  createToolBar();
   createStatusBar();
   addFileMenu();
   addHelpMenu();
@@ -32,56 +27,8 @@ void QuakeWindow::createMainWidget()
   QFont tableFont = QFontDatabase::systemFont(QFontDatabase::FixedFont);
   table->setFont(tableFont);
 
-  setCentralWidget(table); 
+  setCentralWidget(table);
 }
-
-
-void QuakeWindow::createFileSelectors()
-{
-  QStringList significanceOptions;
-  significanceOptions << "significant" << "4.5" << "2.5" << "1.0" << "all";
-  significance = new QComboBox();
-  significance->addItems(significanceOptions);
-
-  QStringList periodOptions;
-  periodOptions << "hour" << "day" << "week" << "month";
-  period = new QComboBox();
-  period->addItems(periodOptions);
-}
-
-
-void QuakeWindow::createButtons()
-{
-  loadButton = new QPushButton("Load");
-  statsButton = new QPushButton("Stats");
-
-  connect(loadButton, SIGNAL(clicked()), this, SLOT(openCSV()));
-  connect(statsButton, SIGNAL(clicked()), this, SLOT(displayStats()));
-}
-
-
-void QuakeWindow::createToolBar()
-{
-  QToolBar* toolBar = new QToolBar();
-
-  QLabel* significanceLabel = new QLabel("Significance");
-  significanceLabel->setAlignment(Qt::AlignVCenter);
-  toolBar->addWidget(significanceLabel);
-  toolBar->addWidget(significance);
-
-  QLabel* periodLabel = new QLabel("Period");
-  periodLabel->setAlignment(Qt::AlignVCenter);
-  toolBar->addWidget(periodLabel);
-  toolBar->addWidget(period);
-
-  toolBar->addSeparator();
-
-  toolBar->addWidget(loadButton);
-  toolBar->addWidget(statsButton);
-
-  addToolBar(Qt::LeftToolBarArea, toolBar);
-}
-
 
 void QuakeWindow::createStatusBar()
 {
@@ -93,9 +40,15 @@ void QuakeWindow::createStatusBar()
 
 void QuakeWindow::addFileMenu()
 {
+  // Set Data Location action (optional, if you still want to use it)
   QAction* locAction = new QAction("Set Data &Location", this);
   locAction->setShortcut(QKeySequence(Qt::CTRL | Qt::Key_L));
   connect(locAction, SIGNAL(triggered()), this, SLOT(setDataLocation()));
+
+  // Open CSV file action
+  QAction* openAction = new QAction("&Open CSV File", this);
+  openAction->setShortcut(QKeySequence::Open);
+  connect(openAction, SIGNAL(triggered()), this, SLOT(openCSV()));
 
   QAction* closeAction = new QAction("Quit", this);
   closeAction->setShortcut(QKeySequence::Close);
@@ -103,6 +56,7 @@ void QuakeWindow::addFileMenu()
 
   QMenu* fileMenu = menuBar()->addMenu("&File");
   fileMenu->addAction(locAction);
+  fileMenu->addAction(openAction);
   fileMenu->addAction(closeAction);
 }
 
@@ -135,49 +89,29 @@ void QuakeWindow::setDataLocation()
 
 void QuakeWindow::openCSV()
 {
-  if (dataLocation == "") {
-    QMessageBox::critical(this, "Data Location Error",
-      "Data location has not been set!\n\n"
-      "You can specify this via the File menu."
-    );
+  // Allow the user to select a single CSV file directly
+  QString filePath = QFileDialog::getOpenFileName(
+    this,
+    "Open CSV File",
+    ".",
+    "CSV Files (*.csv)"
+  );
+
+  // If no file selected, do nothing
+  if (filePath.isEmpty()) {
     return;
   }
 
-  auto filename = QString("%1_%2.csv")
-    .arg(significance->currentText()).arg(period->currentText());
-
-  auto path = dataLocation + "/" + filename;
-
   try {
-    model.updateFromFile(path);
+    model.updateFromFile(filePath);
   }
   catch (const std::exception& error) {
     QMessageBox::critical(this, "CSV File Error", error.what());
     return;
   }
 
-  fileInfo->setText(QString("Current file: <kbd>%1</kbd>").arg(filename));
+  fileInfo->setText(QString("Current file: <kbd>%1</kbd>").arg(filePath));
   table->resizeColumnsToContents();
-
-  if (statsDialog != nullptr && statsDialog->isVisible()) {
-    statsDialog->update(model.meanDepth(), model.meanMagnitude());
-  }
-}
-
-
-void QuakeWindow::displayStats()
-{
-  if (model.hasData()) {
-    if (statsDialog == nullptr) {
-      statsDialog = new StatsDialog(this);
-    }
-
-    statsDialog->update(model.meanDepth(), model.meanMagnitude());
-
-    statsDialog->show();
-    statsDialog->raise();
-    statsDialog->activateWindow();
-  }
 }
 
 

@@ -57,7 +57,7 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution"
+CMAKE_SOURCE_DIR = "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution"
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build"

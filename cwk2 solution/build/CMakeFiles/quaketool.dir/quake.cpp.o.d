@@ -1,7 +1,8 @@
 CMakeFiles/quaketool.dir/quake.cpp.o: \
  /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/quake.cpp \
- /usr/include/stdc-predef.h /usr/include/c++/11/stdexcept \
- /usr/include/c++/11/exception \
+ /usr/include/stdc-predef.h \
+ /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/quake.hpp \
+ /usr/include/c++/11/string \
  /usr/include/c++/11/x86_64-redhat-linux/bits/c++config.h \
  /usr/include/bits/wordsize.h \
  /usr/include/c++/11/x86_64-redhat-linux/bits/os_defines.h \
@@ -11,24 +12,17 @@ CMakeFiles/quaketool.dir/quake.cpp.o: \
  /usr/include/gnu/stubs-64.h \
  /usr/include/c++/11/x86_64-redhat-linux/bits/cpu_defines.h \
  /usr/include/c++/11/pstl/pstl_config.h \
- /usr/include/c++/11/bits/exception.h \
- /usr/include/c++/11/bits/exception_ptr.h \
- /usr/include/c++/11/bits/exception_defines.h \
- /usr/include/c++/11/bits/cxxabi_init_exception.h \
- /usr/lib/gcc/x86_64-redhat-linux/11/include/stddef.h \
- /usr/include/c++/11/typeinfo /usr/include/c++/11/bits/hash_bytes.h \
- /usr/include/c++/11/new /usr/include/c++/11/bits/move.h \
- /usr/include/c++/11/type_traits \
- /usr/include/c++/11/bits/nested_exception.h /usr/include/c++/11/string \
  /usr/include/c++/11/bits/stringfwd.h \
  /usr/include/c++/11/bits/memoryfwd.h \
  /usr/include/c++/11/bits/char_traits.h \
  /usr/include/c++/11/bits/stl_algobase.h \
  /usr/include/c++/11/bits/functexcept.h \
+ /usr/include/c++/11/bits/exception_defines.h \
  /usr/include/c++/11/bits/cpp_type_traits.h \
  /usr/include/c++/11/ext/type_traits.h \
  /usr/include/c++/11/ext/numeric_traits.h \
- /usr/include/c++/11/bits/stl_pair.h \
+ /usr/include/c++/11/bits/stl_pair.h /usr/include/c++/11/bits/move.h \
+ /usr/include/c++/11/type_traits \
  /usr/include/c++/11/bits/stl_iterator_base_types.h \
  /usr/include/c++/11/bits/stl_iterator_base_funcs.h \
  /usr/include/c++/11/bits/concept_check.h \
@@ -39,6 +33,7 @@ CMakeFiles/quaketool.dir/quake.cpp.o: \
  /usr/include/c++/11/bits/postypes.h /usr/include/c++/11/cwchar \
  /usr/include/wchar.h /usr/include/bits/libc-header-start.h \
  /usr/include/bits/floatn.h /usr/include/bits/floatn-common.h \
+ /usr/lib/gcc/x86_64-redhat-linux/11/include/stddef.h \
  /usr/lib/gcc/x86_64-redhat-linux/11/include/stdarg.h \
  /usr/include/bits/wchar.h /usr/include/bits/types/wint_t.h \
  /usr/include/bits/types/mbstate_t.h \
@@ -51,7 +46,8 @@ CMakeFiles/quaketool.dir/quake.cpp.o: \
  /usr/include/bits/stdint-intn.h /usr/include/bits/stdint-uintn.h \
  /usr/include/c++/11/bits/allocator.h \
  /usr/include/c++/11/x86_64-redhat-linux/bits/c++allocator.h \
- /usr/include/c++/11/ext/new_allocator.h \
+ /usr/include/c++/11/ext/new_allocator.h /usr/include/c++/11/new \
+ /usr/include/c++/11/bits/exception.h \
  /usr/include/c++/11/bits/localefwd.h \
  /usr/include/c++/11/x86_64-redhat-linux/bits/c++locale.h \
  /usr/include/c++/11/clocale /usr/include/locale.h \
@@ -89,6 +85,7 @@ CMakeFiles/quaketool.dir/quake.cpp.o: \
  /usr/include/c++/11/bits/alloc_traits.h \
  /usr/include/c++/11/bits/stl_construct.h /usr/include/c++/11/string_view \
  /usr/include/c++/11/bits/functional_hash.h \
+ /usr/include/c++/11/bits/hash_bytes.h \
  /usr/include/c++/11/bits/string_view.tcc \
  /usr/include/c++/11/ext/string_conversions.h /usr/include/c++/11/cstdlib \
  /usr/include/stdlib.h /usr/include/bits/waitflags.h \
@@ -107,14 +104,18 @@ CMakeFiles/quaketool.dir/quake.cpp.o: \
  /usr/include/linux/errno.h /usr/include/asm/errno.h \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
  /usr/include/bits/types/error_t.h /usr/include/c++/11/bits/charconv.h \
- /usr/include/c++/11/bits/basic_string.tcc /usr/include/c++/11/sstream \
- /usr/include/c++/11/istream /usr/include/c++/11/ios \
+ /usr/include/c++/11/bits/basic_string.tcc /usr/include/c++/11/iostream \
+ /usr/include/c++/11/ostream /usr/include/c++/11/ios \
+ /usr/include/c++/11/exception /usr/include/c++/11/bits/exception_ptr.h \
+ /usr/include/c++/11/bits/cxxabi_init_exception.h \
+ /usr/include/c++/11/typeinfo /usr/include/c++/11/bits/nested_exception.h \
  /usr/include/c++/11/bits/ios_base.h \
  /usr/include/c++/11/bits/locale_classes.h \
  /usr/include/c++/11/bits/locale_classes.tcc \
  /usr/include/c++/11/system_error \
  /usr/include/c++/11/x86_64-redhat-linux/bits/error_constants.h \
- /usr/include/c++/11/streambuf /usr/include/c++/11/bits/streambuf.tcc \
+ /usr/include/c++/11/stdexcept /usr/include/c++/11/streambuf \
+ /usr/include/c++/11/bits/streambuf.tcc \
  /usr/include/c++/11/bits/basic_ios.h \
  /usr/include/c++/11/bits/locale_facets.h /usr/include/c++/11/cwctype \
  /usr/include/wctype.h /usr/include/bits/wctype-wchar.h \
@@ -122,9 +123,6 @@ CMakeFiles/quaketool.dir/quake.cpp.o: \
  /usr/include/c++/11/bits/streambuf_iterator.h \
  /usr/include/c++/11/x86_64-redhat-linux/bits/ctype_inline.h \
  /usr/include/c++/11/bits/locale_facets.tcc \
- /usr/include/c++/11/bits/basic_ios.tcc /usr/include/c++/11/ostream \
- /usr/include/c++/11/bits/ostream.tcc \
- /usr/include/c++/11/bits/istream.tcc \
- /usr/include/c++/11/bits/sstream.tcc \
- /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/quake.hpp \
- /usr/include/c++/11/iostream
+ /usr/include/c++/11/bits/basic_ios.tcc \
+ /usr/include/c++/11/bits/ostream.tcc /usr/include/c++/11/istream \
+ /usr/include/c++/11/bits/istream.tcc

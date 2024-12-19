@@ -2,11 +2,11 @@
 	"BUILD_DIR" : "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/quaketool_autogen",
 	"CMAKE_BINARY_DIR" : "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build",
 	"CMAKE_CURRENT_BINARY_DIR" : "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build",
-	"CMAKE_CURRENT_SOURCE_DIR" : "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution",
 	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
 	"CMAKE_LIST_FILES" : 
 	[
-		"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/CMakeLists.txt",
+		"/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/CMakeLists.txt",
 		"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles/3.26.5/CMakeSystem.cmake",
 		"/usr/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake",
 		"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles/3.26.5/CMakeCXXCompiler.cmake",
@@ -372,97 +372,97 @@
 		"/usr/lib64/cmake/Qt6Charts/Qt6ChartsVersionlessTargets.cmake",
 		"/usr/share/cmake/Modules/GNUInstallDirs.cmake"
 	],
-	"CMAKE_SOURCE_DIR" : "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution",
+	"CMAKE_SOURCE_DIR" : "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution",
 	"DEP_FILE" : "",
 	"DEP_FILE_RULE_NAME" : "",
 	"HEADERS" : 
 	[
 		[
-			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/fluorinated_compounds_page/line_chart.hpp",
+			"/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/fluorinated_compounds_page/line_chart.hpp",
 			"MU",
 			"EIVUVBWO6B/moc_line_chart.cpp",
 			null
 		],
 		[
-			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/fluorinated_compounds_page/window.hpp",
+			"/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/fluorinated_compounds_page/window.hpp",
 			"MU",
 			"EIVUVBWO6B/moc_window.cpp",
 			null
 		],
 		[
-			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/physical_pollution_page/pie_chart.hpp",
+			"/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/physical_pollution_page/pie_chart.hpp",
 			"MU",
 			"XJHDKGCLR4/moc_pie_chart.cpp",
 			null
 		],
 		[
-			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/physical_pollution_page/window.hpp",
+			"/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/physical_pollution_page/window.hpp",
 			"MU",
 			"XJHDKGCLR4/moc_window.cpp",
 			null
 		],
 		[
-			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/dataset.hpp",
+			"/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/dataset.hpp",
 			"MU",
 			"EWIEGA46WW/moc_dataset.cpp",
 			null
 		],
 		[
-			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/model.hpp",
+			"/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/model.hpp",
 			"MU",
 			"EWIEGA46WW/moc_model.cpp",
 			null
 		],
 		[
-			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/nadia/complianceDashboard.hpp",
+			"/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/nadia/complianceDashboard.hpp",
 			"MU",
 			"A46XQFH7UF/moc_complianceDashboard.cpp",
 			null
 		],
 		[
-			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/quake.hpp",
+			"/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/quake.hpp",
 			"MU",
 			"EWIEGA46WW/moc_quake.cpp",
 			null
 		],
 		[
-			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/rameesah/PCBMonitor.hpp",
+			"/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/rameesah/PCBMonitor.hpp",
 			"MU",
 			"X7NV6K2PTN/moc_PCBMonitor.cpp",
 			null
 		],
 		[
-			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/rameesah/overviewWidget.hpp",
+			"/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/rameesah/overviewWidget.hpp",
 			"MU",
 			"X7NV6K2PTN/moc_overviewWidget.cpp",
 			null
 		],
 		[
-			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/stats.hpp",
+			"/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/stats.hpp",
 			"MU",
 			"EWIEGA46WW/moc_stats.cpp",
 			null
 		],
 		[
-			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/tayshan/dashwidge.hpp",
+			"/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/tayshan/dashwidge.hpp",
 			"MU",
 			"P33VSX5UGX/moc_dashwidge.cpp",
 			null
 		],
 		[
-			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/tayshan/datawidge.hpp",
+			"/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/tayshan/datawidge.hpp",
 			"MU",
 			"P33VSX5UGX/moc_datawidge.cpp",
 			null
 		],
 		[
-			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/tayshan/window.hpp",
+			"/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/tayshan/window.hpp",
 			"MU",
 			"P33VSX5UGX/moc_window.cpp",
 			null
 		],
 		[
-			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/window.hpp",
+			"/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/window.hpp",
 			"MU",
 			"EWIEGA46WW/moc_window.cpp",
 			null
@@ -537,82 +537,82 @@
 	"SOURCES" : 
 	[
 		[
-			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/fluorinated_compounds_page/line_chart.cpp",
+			"/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/fluorinated_compounds_page/line_chart.cpp",
 			"MU",
 			null
 		],
 		[
-			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/fluorinated_compounds_page/window.cpp",
+			"/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/fluorinated_compounds_page/window.cpp",
 			"MU",
 			null
 		],
 		[
-			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/physical_pollution_page/pie_chart.cpp",
+			"/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/physical_pollution_page/pie_chart.cpp",
 			"MU",
 			null
 		],
 		[
-			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/physical_pollution_page/window.cpp",
+			"/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/physical_pollution_page/window.cpp",
 			"MU",
 			null
 		],
 		[
-			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/dataset.cpp",
+			"/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/dataset.cpp",
 			"MU",
 			null
 		],
 		[
-			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/main.cpp",
+			"/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/main.cpp",
 			"MU",
 			null
 		],
 		[
-			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/model.cpp",
+			"/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/model.cpp",
 			"MU",
 			null
 		],
 		[
-			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/nadia/complianceDashboard.cpp",
+			"/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/nadia/complianceDashboard.cpp",
 			"MU",
 			null
 		],
 		[
-			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/quake.cpp",
+			"/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/quake.cpp",
 			"MU",
 			null
 		],
 		[
-			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/rameesah/PCBMonitor.cpp",
+			"/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/rameesah/PCBMonitor.cpp",
 			"MU",
 			null
 		],
 		[
-			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/rameesah/overviewWidget.cpp",
+			"/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/rameesah/overviewWidget.cpp",
 			"MU",
 			null
 		],
 		[
-			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/stats.cpp",
+			"/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/stats.cpp",
 			"MU",
 			null
 		],
 		[
-			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/tayshan/dashwidge.cpp",
+			"/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/tayshan/dashwidge.cpp",
 			"MU",
 			null
 		],
 		[
-			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/tayshan/datawidge.cpp",
+			"/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/tayshan/datawidge.cpp",
 			"MU",
 			null
 		],
 		[
-			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/tayshan/window.cpp",
+			"/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/tayshan/window.cpp",
 			"MU",
 			null
 		],
 		[
-			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/window.cpp",
+			"/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/window.cpp",
 			"MU",
 			null
 		]

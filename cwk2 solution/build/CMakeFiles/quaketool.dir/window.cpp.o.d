@@ -932,6 +932,4 @@ CMakeFiles/quaketool.dir/window.cpp.o: \
  /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/model.hpp \
  /usr/include/qt6/QtCore/QAbstractTableModel \
  /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/dataset.hpp \
- /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/quake.hpp \
- /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/stats.hpp \
- /usr/include/qt6/QtWidgets/QDialog
+ /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/quake.hpp

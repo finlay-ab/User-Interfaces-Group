@@ -1,4 +1,4 @@
-# Install script for directory: /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution
+# Install script for directory: /uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

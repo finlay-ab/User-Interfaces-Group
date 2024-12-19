@@ -1,44 +1,52 @@
-// COMP2811 Coursework 1 sample solution: Quake class
-
-#include <stdexcept>
-#include <sstream>
 #include "quake.hpp"
 
-using namespace std;
-
-
-Quake::Quake(const string& tm, double lat, double lon, double dep, double mag):
-  time(tm), latitude(lat), longitude(lon), depth(dep), magnitude(mag)
+Quake::Quake(
+  const std::string& id,
+  const std::string& samplingPoint,
+  const std::string& samplingPointNotation,
+  const std::string& samplingPointLabel,
+  const std::string& sampleDateTime,
+  const std::string& determinandLabel,
+  const std::string& determinandDefinition,
+  int determinandNotation,
+  const std::string& resultQualifierNotation,
+  double result,
+  const std::string& codedResultInterpretation,
+  const std::string& determinandUnitLabel,
+  const std::string& sampledMaterialTypeLabel,
+  bool isComplianceSample,
+  const std::string& purposeLabel,
+  int easting,
+  int northing
+):
+  id(id),
+  samplingPoint(samplingPoint),
+  samplingPointNotation(samplingPointNotation),
+  samplingPointLabel(samplingPointLabel),
+  sampleDateTime(sampleDateTime),
+  determinandLabel(determinandLabel),
+  determinandDefinition(determinandDefinition),
+  determinandNotation(determinandNotation),
+  resultQualifierNotation(resultQualifierNotation),
+  result(result),
+  codedResultInterpretation(codedResultInterpretation),
+  determinandUnitLabel(determinandUnitLabel),
+  sampledMaterialTypeLabel(sampledMaterialTypeLabel),
+  isComplianceSample(isComplianceSample),
+  purposeLabel(purposeLabel),
+  easting(easting),
+  northing(northing)
 {
-  ostringstream error;
-
-  if (latitude < MIN_LATITUDE or latitude > MAX_LATITUDE) {
-    error << "Invalid latitude: " << latitude;
-    throw out_of_range(error.str());
-  }
-
-  if (longitude < MIN_LONGITUDE or longitude > MAX_LONGITUDE) {
-    error << "Invalid longitude: " << longitude;
-    throw out_of_range(error.str());
-  }
-
-  if (depth < 0.0) {
-    error << "Invalid depth: " << depth;
-    throw out_of_range(error.str());
-  }
-
-  if (magnitude < 0.0) {
-    error << "Invalid magnitude: " << magnitude;
-    throw out_of_range(error.str());
-  }
+  // No validation needed now.
 }
 
 
-ostream& operator<<(ostream& out, const Quake& quake)
+std::ostream& operator<<(std::ostream& out, const Quake& quake)
 {
-  return out << "Time: " << quake.getTime()
-             << "\nLatitude: " << quake.getLatitude() << " deg"
-             << "\nLongitude: " << quake.getLongitude() << " deg"
-             << "\nDepth: " << quake.getDepth() << " km"
-             << "\nMagnitude: " << quake.getMagnitude() << endl;
+  // Just output a few fields for debugging. This is optional.
+  return out << "@id: " << quake.getId() << "\n"
+             << "Sampling Point: " << quake.getSamplingPoint() << "\n"
+             << "Sample Date Time: " << quake.getSampleDateTime() << "\n"
+             << "Result: " << quake.getResult() << "\n"
+             << "Is Compliance Sample: " << (quake.getIsComplianceSample() ? "true" : "false") << "\n";
 }

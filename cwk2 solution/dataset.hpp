@@ -1,5 +1,3 @@
-// COMP2811 Coursework 1 sample solution: QuakeDataset class
-
 #pragma once
 
 #include <vector>
@@ -13,8 +11,10 @@ class QuakeDataset
     void loadData(const std::string&);
     int size() const { return data.size(); }
     Quake operator[](int index) const { return data.at(index); }
-    Quake strongest() const;
-    Quake shallowest() const;
+
+    // These no longer apply, but we keep them to preserve structure
+    Quake strongest() const; 
+    Quake shallowest() const; 
     double meanDepth() const;
     double meanMagnitude() const;
 

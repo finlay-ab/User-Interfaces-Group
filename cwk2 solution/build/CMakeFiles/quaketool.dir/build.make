@@ -53,7 +53,7 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution"
+CMAKE_SOURCE_DIR = "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution"
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build"
@@ -84,228 +84,228 @@ CMakeFiles/quaketool.dir/quaketool_autogen/mocs_compilation.cpp.s: cmake_force
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/quaketool_autogen/mocs_compilation.cpp" -o CMakeFiles/quaketool.dir/quaketool_autogen/mocs_compilation.cpp.s
 
 CMakeFiles/quaketool.dir/main.cpp.o: CMakeFiles/quaketool.dir/flags.make
-CMakeFiles/quaketool.dir/main.cpp.o: /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/main.cpp
+CMakeFiles/quaketool.dir/main.cpp.o: /uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2\ solution/main.cpp
 CMakeFiles/quaketool.dir/main.cpp.o: CMakeFiles/quaketool.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/quaketool.dir/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/quaketool.dir/main.cpp.o -MF CMakeFiles/quaketool.dir/main.cpp.o.d -o CMakeFiles/quaketool.dir/main.cpp.o -c "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/main.cpp"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/quaketool.dir/main.cpp.o -MF CMakeFiles/quaketool.dir/main.cpp.o.d -o CMakeFiles/quaketool.dir/main.cpp.o -c "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/main.cpp"
 
 CMakeFiles/quaketool.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/quaketool.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/main.cpp" > CMakeFiles/quaketool.dir/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/main.cpp" > CMakeFiles/quaketool.dir/main.cpp.i
 
 CMakeFiles/quaketool.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/quaketool.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/main.cpp" -o CMakeFiles/quaketool.dir/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/main.cpp" -o CMakeFiles/quaketool.dir/main.cpp.s
 
 CMakeFiles/quaketool.dir/quake.cpp.o: CMakeFiles/quaketool.dir/flags.make
-CMakeFiles/quaketool.dir/quake.cpp.o: /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/quake.cpp
+CMakeFiles/quaketool.dir/quake.cpp.o: /uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2\ solution/quake.cpp
 CMakeFiles/quaketool.dir/quake.cpp.o: CMakeFiles/quaketool.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/quaketool.dir/quake.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/quaketool.dir/quake.cpp.o -MF CMakeFiles/quaketool.dir/quake.cpp.o.d -o CMakeFiles/quaketool.dir/quake.cpp.o -c "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/quake.cpp"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/quaketool.dir/quake.cpp.o -MF CMakeFiles/quaketool.dir/quake.cpp.o.d -o CMakeFiles/quaketool.dir/quake.cpp.o -c "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/quake.cpp"
 
 CMakeFiles/quaketool.dir/quake.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/quaketool.dir/quake.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/quake.cpp" > CMakeFiles/quaketool.dir/quake.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/quake.cpp" > CMakeFiles/quaketool.dir/quake.cpp.i
 
 CMakeFiles/quaketool.dir/quake.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/quaketool.dir/quake.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/quake.cpp" -o CMakeFiles/quaketool.dir/quake.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/quake.cpp" -o CMakeFiles/quaketool.dir/quake.cpp.s
 
 CMakeFiles/quaketool.dir/dataset.cpp.o: CMakeFiles/quaketool.dir/flags.make
-CMakeFiles/quaketool.dir/dataset.cpp.o: /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/dataset.cpp
+CMakeFiles/quaketool.dir/dataset.cpp.o: /uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2\ solution/dataset.cpp
 CMakeFiles/quaketool.dir/dataset.cpp.o: CMakeFiles/quaketool.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/quaketool.dir/dataset.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/quaketool.dir/dataset.cpp.o -MF CMakeFiles/quaketool.dir/dataset.cpp.o.d -o CMakeFiles/quaketool.dir/dataset.cpp.o -c "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/dataset.cpp"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/quaketool.dir/dataset.cpp.o -MF CMakeFiles/quaketool.dir/dataset.cpp.o.d -o CMakeFiles/quaketool.dir/dataset.cpp.o -c "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/dataset.cpp"
 
 CMakeFiles/quaketool.dir/dataset.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/quaketool.dir/dataset.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/dataset.cpp" > CMakeFiles/quaketool.dir/dataset.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/dataset.cpp" > CMakeFiles/quaketool.dir/dataset.cpp.i
 
 CMakeFiles/quaketool.dir/dataset.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/quaketool.dir/dataset.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/dataset.cpp" -o CMakeFiles/quaketool.dir/dataset.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/dataset.cpp" -o CMakeFiles/quaketool.dir/dataset.cpp.s
 
 CMakeFiles/quaketool.dir/model.cpp.o: CMakeFiles/quaketool.dir/flags.make
-CMakeFiles/quaketool.dir/model.cpp.o: /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/model.cpp
+CMakeFiles/quaketool.dir/model.cpp.o: /uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2\ solution/model.cpp
 CMakeFiles/quaketool.dir/model.cpp.o: CMakeFiles/quaketool.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/quaketool.dir/model.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/quaketool.dir/model.cpp.o -MF CMakeFiles/quaketool.dir/model.cpp.o.d -o CMakeFiles/quaketool.dir/model.cpp.o -c "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/model.cpp"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/quaketool.dir/model.cpp.o -MF CMakeFiles/quaketool.dir/model.cpp.o.d -o CMakeFiles/quaketool.dir/model.cpp.o -c "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/model.cpp"
 
 CMakeFiles/quaketool.dir/model.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/quaketool.dir/model.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/model.cpp" > CMakeFiles/quaketool.dir/model.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/model.cpp" > CMakeFiles/quaketool.dir/model.cpp.i
 
 CMakeFiles/quaketool.dir/model.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/quaketool.dir/model.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/model.cpp" -o CMakeFiles/quaketool.dir/model.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/model.cpp" -o CMakeFiles/quaketool.dir/model.cpp.s
 
 CMakeFiles/quaketool.dir/window.cpp.o: CMakeFiles/quaketool.dir/flags.make
-CMakeFiles/quaketool.dir/window.cpp.o: /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/window.cpp
+CMakeFiles/quaketool.dir/window.cpp.o: /uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2\ solution/window.cpp
 CMakeFiles/quaketool.dir/window.cpp.o: CMakeFiles/quaketool.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/quaketool.dir/window.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/quaketool.dir/window.cpp.o -MF CMakeFiles/quaketool.dir/window.cpp.o.d -o CMakeFiles/quaketool.dir/window.cpp.o -c "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/window.cpp"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/quaketool.dir/window.cpp.o -MF CMakeFiles/quaketool.dir/window.cpp.o.d -o CMakeFiles/quaketool.dir/window.cpp.o -c "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/window.cpp"
 
 CMakeFiles/quaketool.dir/window.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/quaketool.dir/window.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/window.cpp" > CMakeFiles/quaketool.dir/window.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/window.cpp" > CMakeFiles/quaketool.dir/window.cpp.i
 
 CMakeFiles/quaketool.dir/window.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/quaketool.dir/window.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/window.cpp" -o CMakeFiles/quaketool.dir/window.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/window.cpp" -o CMakeFiles/quaketool.dir/window.cpp.s
 
 CMakeFiles/quaketool.dir/stats.cpp.o: CMakeFiles/quaketool.dir/flags.make
-CMakeFiles/quaketool.dir/stats.cpp.o: /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/stats.cpp
+CMakeFiles/quaketool.dir/stats.cpp.o: /uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2\ solution/stats.cpp
 CMakeFiles/quaketool.dir/stats.cpp.o: CMakeFiles/quaketool.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/quaketool.dir/stats.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/quaketool.dir/stats.cpp.o -MF CMakeFiles/quaketool.dir/stats.cpp.o.d -o CMakeFiles/quaketool.dir/stats.cpp.o -c "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/stats.cpp"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/quaketool.dir/stats.cpp.o -MF CMakeFiles/quaketool.dir/stats.cpp.o.d -o CMakeFiles/quaketool.dir/stats.cpp.o -c "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/stats.cpp"
 
 CMakeFiles/quaketool.dir/stats.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/quaketool.dir/stats.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/stats.cpp" > CMakeFiles/quaketool.dir/stats.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/stats.cpp" > CMakeFiles/quaketool.dir/stats.cpp.i
 
 CMakeFiles/quaketool.dir/stats.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/quaketool.dir/stats.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/stats.cpp" -o CMakeFiles/quaketool.dir/stats.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/stats.cpp" -o CMakeFiles/quaketool.dir/stats.cpp.s
 
 CMakeFiles/quaketool.dir/nadia/complianceDashboard.cpp.o: CMakeFiles/quaketool.dir/flags.make
-CMakeFiles/quaketool.dir/nadia/complianceDashboard.cpp.o: /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/nadia/complianceDashboard.cpp
+CMakeFiles/quaketool.dir/nadia/complianceDashboard.cpp.o: /uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2\ solution/nadia/complianceDashboard.cpp
 CMakeFiles/quaketool.dir/nadia/complianceDashboard.cpp.o: CMakeFiles/quaketool.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/quaketool.dir/nadia/complianceDashboard.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/quaketool.dir/nadia/complianceDashboard.cpp.o -MF CMakeFiles/quaketool.dir/nadia/complianceDashboard.cpp.o.d -o CMakeFiles/quaketool.dir/nadia/complianceDashboard.cpp.o -c "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/nadia/complianceDashboard.cpp"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/quaketool.dir/nadia/complianceDashboard.cpp.o -MF CMakeFiles/quaketool.dir/nadia/complianceDashboard.cpp.o.d -o CMakeFiles/quaketool.dir/nadia/complianceDashboard.cpp.o -c "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/nadia/complianceDashboard.cpp"
 
 CMakeFiles/quaketool.dir/nadia/complianceDashboard.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/quaketool.dir/nadia/complianceDashboard.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/nadia/complianceDashboard.cpp" > CMakeFiles/quaketool.dir/nadia/complianceDashboard.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/nadia/complianceDashboard.cpp" > CMakeFiles/quaketool.dir/nadia/complianceDashboard.cpp.i
 
 CMakeFiles/quaketool.dir/nadia/complianceDashboard.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/quaketool.dir/nadia/complianceDashboard.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/nadia/complianceDashboard.cpp" -o CMakeFiles/quaketool.dir/nadia/complianceDashboard.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/nadia/complianceDashboard.cpp" -o CMakeFiles/quaketool.dir/nadia/complianceDashboard.cpp.s
 
 CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/window.cpp.o: CMakeFiles/quaketool.dir/flags.make
-CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/window.cpp.o: /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/daniel/fluorinated_compounds_page/window.cpp
+CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/window.cpp.o: /uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2\ solution/daniel/fluorinated_compounds_page/window.cpp
 CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/window.cpp.o: CMakeFiles/quaketool.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/window.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/window.cpp.o -MF CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/window.cpp.o.d -o CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/window.cpp.o -c "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/fluorinated_compounds_page/window.cpp"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/window.cpp.o -MF CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/window.cpp.o.d -o CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/window.cpp.o -c "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/fluorinated_compounds_page/window.cpp"
 
 CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/window.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/window.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/fluorinated_compounds_page/window.cpp" > CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/window.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/fluorinated_compounds_page/window.cpp" > CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/window.cpp.i
 
 CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/window.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/window.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/fluorinated_compounds_page/window.cpp" -o CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/window.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/fluorinated_compounds_page/window.cpp" -o CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/window.cpp.s
 
 CMakeFiles/quaketool.dir/daniel/physical_pollution_page/window.cpp.o: CMakeFiles/quaketool.dir/flags.make
-CMakeFiles/quaketool.dir/daniel/physical_pollution_page/window.cpp.o: /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/daniel/physical_pollution_page/window.cpp
+CMakeFiles/quaketool.dir/daniel/physical_pollution_page/window.cpp.o: /uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2\ solution/daniel/physical_pollution_page/window.cpp
 CMakeFiles/quaketool.dir/daniel/physical_pollution_page/window.cpp.o: CMakeFiles/quaketool.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/quaketool.dir/daniel/physical_pollution_page/window.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/quaketool.dir/daniel/physical_pollution_page/window.cpp.o -MF CMakeFiles/quaketool.dir/daniel/physical_pollution_page/window.cpp.o.d -o CMakeFiles/quaketool.dir/daniel/physical_pollution_page/window.cpp.o -c "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/physical_pollution_page/window.cpp"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/quaketool.dir/daniel/physical_pollution_page/window.cpp.o -MF CMakeFiles/quaketool.dir/daniel/physical_pollution_page/window.cpp.o.d -o CMakeFiles/quaketool.dir/daniel/physical_pollution_page/window.cpp.o -c "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/physical_pollution_page/window.cpp"
 
 CMakeFiles/quaketool.dir/daniel/physical_pollution_page/window.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/quaketool.dir/daniel/physical_pollution_page/window.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/physical_pollution_page/window.cpp" > CMakeFiles/quaketool.dir/daniel/physical_pollution_page/window.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/physical_pollution_page/window.cpp" > CMakeFiles/quaketool.dir/daniel/physical_pollution_page/window.cpp.i
 
 CMakeFiles/quaketool.dir/daniel/physical_pollution_page/window.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/quaketool.dir/daniel/physical_pollution_page/window.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/physical_pollution_page/window.cpp" -o CMakeFiles/quaketool.dir/daniel/physical_pollution_page/window.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/physical_pollution_page/window.cpp" -o CMakeFiles/quaketool.dir/daniel/physical_pollution_page/window.cpp.s
 
 CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/line_chart.cpp.o: CMakeFiles/quaketool.dir/flags.make
-CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/line_chart.cpp.o: /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/daniel/fluorinated_compounds_page/line_chart.cpp
+CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/line_chart.cpp.o: /uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2\ solution/daniel/fluorinated_compounds_page/line_chart.cpp
 CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/line_chart.cpp.o: CMakeFiles/quaketool.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/line_chart.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/line_chart.cpp.o -MF CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/line_chart.cpp.o.d -o CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/line_chart.cpp.o -c "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/fluorinated_compounds_page/line_chart.cpp"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/line_chart.cpp.o -MF CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/line_chart.cpp.o.d -o CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/line_chart.cpp.o -c "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/fluorinated_compounds_page/line_chart.cpp"
 
 CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/line_chart.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/line_chart.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/fluorinated_compounds_page/line_chart.cpp" > CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/line_chart.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/fluorinated_compounds_page/line_chart.cpp" > CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/line_chart.cpp.i
 
 CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/line_chart.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/line_chart.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/fluorinated_compounds_page/line_chart.cpp" -o CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/line_chart.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/fluorinated_compounds_page/line_chart.cpp" -o CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/line_chart.cpp.s
 
 CMakeFiles/quaketool.dir/daniel/physical_pollution_page/pie_chart.cpp.o: CMakeFiles/quaketool.dir/flags.make
-CMakeFiles/quaketool.dir/daniel/physical_pollution_page/pie_chart.cpp.o: /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/daniel/physical_pollution_page/pie_chart.cpp
+CMakeFiles/quaketool.dir/daniel/physical_pollution_page/pie_chart.cpp.o: /uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2\ solution/daniel/physical_pollution_page/pie_chart.cpp
 CMakeFiles/quaketool.dir/daniel/physical_pollution_page/pie_chart.cpp.o: CMakeFiles/quaketool.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/quaketool.dir/daniel/physical_pollution_page/pie_chart.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/quaketool.dir/daniel/physical_pollution_page/pie_chart.cpp.o -MF CMakeFiles/quaketool.dir/daniel/physical_pollution_page/pie_chart.cpp.o.d -o CMakeFiles/quaketool.dir/daniel/physical_pollution_page/pie_chart.cpp.o -c "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/physical_pollution_page/pie_chart.cpp"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/quaketool.dir/daniel/physical_pollution_page/pie_chart.cpp.o -MF CMakeFiles/quaketool.dir/daniel/physical_pollution_page/pie_chart.cpp.o.d -o CMakeFiles/quaketool.dir/daniel/physical_pollution_page/pie_chart.cpp.o -c "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/physical_pollution_page/pie_chart.cpp"
 
 CMakeFiles/quaketool.dir/daniel/physical_pollution_page/pie_chart.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/quaketool.dir/daniel/physical_pollution_page/pie_chart.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/physical_pollution_page/pie_chart.cpp" > CMakeFiles/quaketool.dir/daniel/physical_pollution_page/pie_chart.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/physical_pollution_page/pie_chart.cpp" > CMakeFiles/quaketool.dir/daniel/physical_pollution_page/pie_chart.cpp.i
 
 CMakeFiles/quaketool.dir/daniel/physical_pollution_page/pie_chart.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/quaketool.dir/daniel/physical_pollution_page/pie_chart.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/physical_pollution_page/pie_chart.cpp" -o CMakeFiles/quaketool.dir/daniel/physical_pollution_page/pie_chart.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/daniel/physical_pollution_page/pie_chart.cpp" -o CMakeFiles/quaketool.dir/daniel/physical_pollution_page/pie_chart.cpp.s
 
 CMakeFiles/quaketool.dir/rameesah/overviewWidget.cpp.o: CMakeFiles/quaketool.dir/flags.make
-CMakeFiles/quaketool.dir/rameesah/overviewWidget.cpp.o: /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/rameesah/overviewWidget.cpp
+CMakeFiles/quaketool.dir/rameesah/overviewWidget.cpp.o: /uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2\ solution/rameesah/overviewWidget.cpp
 CMakeFiles/quaketool.dir/rameesah/overviewWidget.cpp.o: CMakeFiles/quaketool.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/quaketool.dir/rameesah/overviewWidget.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/quaketool.dir/rameesah/overviewWidget.cpp.o -MF CMakeFiles/quaketool.dir/rameesah/overviewWidget.cpp.o.d -o CMakeFiles/quaketool.dir/rameesah/overviewWidget.cpp.o -c "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/rameesah/overviewWidget.cpp"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/quaketool.dir/rameesah/overviewWidget.cpp.o -MF CMakeFiles/quaketool.dir/rameesah/overviewWidget.cpp.o.d -o CMakeFiles/quaketool.dir/rameesah/overviewWidget.cpp.o -c "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/rameesah/overviewWidget.cpp"
 
 CMakeFiles/quaketool.dir/rameesah/overviewWidget.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/quaketool.dir/rameesah/overviewWidget.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/rameesah/overviewWidget.cpp" > CMakeFiles/quaketool.dir/rameesah/overviewWidget.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/rameesah/overviewWidget.cpp" > CMakeFiles/quaketool.dir/rameesah/overviewWidget.cpp.i
 
 CMakeFiles/quaketool.dir/rameesah/overviewWidget.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/quaketool.dir/rameesah/overviewWidget.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/rameesah/overviewWidget.cpp" -o CMakeFiles/quaketool.dir/rameesah/overviewWidget.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/rameesah/overviewWidget.cpp" -o CMakeFiles/quaketool.dir/rameesah/overviewWidget.cpp.s
 
 CMakeFiles/quaketool.dir/rameesah/PCBMonitor.cpp.o: CMakeFiles/quaketool.dir/flags.make
-CMakeFiles/quaketool.dir/rameesah/PCBMonitor.cpp.o: /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/rameesah/PCBMonitor.cpp
+CMakeFiles/quaketool.dir/rameesah/PCBMonitor.cpp.o: /uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2\ solution/rameesah/PCBMonitor.cpp
 CMakeFiles/quaketool.dir/rameesah/PCBMonitor.cpp.o: CMakeFiles/quaketool.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/quaketool.dir/rameesah/PCBMonitor.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/quaketool.dir/rameesah/PCBMonitor.cpp.o -MF CMakeFiles/quaketool.dir/rameesah/PCBMonitor.cpp.o.d -o CMakeFiles/quaketool.dir/rameesah/PCBMonitor.cpp.o -c "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/rameesah/PCBMonitor.cpp"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/quaketool.dir/rameesah/PCBMonitor.cpp.o -MF CMakeFiles/quaketool.dir/rameesah/PCBMonitor.cpp.o.d -o CMakeFiles/quaketool.dir/rameesah/PCBMonitor.cpp.o -c "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/rameesah/PCBMonitor.cpp"
 
 CMakeFiles/quaketool.dir/rameesah/PCBMonitor.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/quaketool.dir/rameesah/PCBMonitor.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/rameesah/PCBMonitor.cpp" > CMakeFiles/quaketool.dir/rameesah/PCBMonitor.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/rameesah/PCBMonitor.cpp" > CMakeFiles/quaketool.dir/rameesah/PCBMonitor.cpp.i
 
 CMakeFiles/quaketool.dir/rameesah/PCBMonitor.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/quaketool.dir/rameesah/PCBMonitor.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/rameesah/PCBMonitor.cpp" -o CMakeFiles/quaketool.dir/rameesah/PCBMonitor.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/rameesah/PCBMonitor.cpp" -o CMakeFiles/quaketool.dir/rameesah/PCBMonitor.cpp.s
 
 CMakeFiles/quaketool.dir/tayshan/dashwidge.cpp.o: CMakeFiles/quaketool.dir/flags.make
-CMakeFiles/quaketool.dir/tayshan/dashwidge.cpp.o: /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/tayshan/dashwidge.cpp
+CMakeFiles/quaketool.dir/tayshan/dashwidge.cpp.o: /uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2\ solution/tayshan/dashwidge.cpp
 CMakeFiles/quaketool.dir/tayshan/dashwidge.cpp.o: CMakeFiles/quaketool.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/quaketool.dir/tayshan/dashwidge.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/quaketool.dir/tayshan/dashwidge.cpp.o -MF CMakeFiles/quaketool.dir/tayshan/dashwidge.cpp.o.d -o CMakeFiles/quaketool.dir/tayshan/dashwidge.cpp.o -c "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/tayshan/dashwidge.cpp"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/quaketool.dir/tayshan/dashwidge.cpp.o -MF CMakeFiles/quaketool.dir/tayshan/dashwidge.cpp.o.d -o CMakeFiles/quaketool.dir/tayshan/dashwidge.cpp.o -c "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/tayshan/dashwidge.cpp"
 
 CMakeFiles/quaketool.dir/tayshan/dashwidge.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/quaketool.dir/tayshan/dashwidge.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/tayshan/dashwidge.cpp" > CMakeFiles/quaketool.dir/tayshan/dashwidge.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/tayshan/dashwidge.cpp" > CMakeFiles/quaketool.dir/tayshan/dashwidge.cpp.i
 
 CMakeFiles/quaketool.dir/tayshan/dashwidge.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/quaketool.dir/tayshan/dashwidge.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/tayshan/dashwidge.cpp" -o CMakeFiles/quaketool.dir/tayshan/dashwidge.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/tayshan/dashwidge.cpp" -o CMakeFiles/quaketool.dir/tayshan/dashwidge.cpp.s
 
 CMakeFiles/quaketool.dir/tayshan/datawidge.cpp.o: CMakeFiles/quaketool.dir/flags.make
-CMakeFiles/quaketool.dir/tayshan/datawidge.cpp.o: /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/tayshan/datawidge.cpp
+CMakeFiles/quaketool.dir/tayshan/datawidge.cpp.o: /uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2\ solution/tayshan/datawidge.cpp
 CMakeFiles/quaketool.dir/tayshan/datawidge.cpp.o: CMakeFiles/quaketool.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/quaketool.dir/tayshan/datawidge.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/quaketool.dir/tayshan/datawidge.cpp.o -MF CMakeFiles/quaketool.dir/tayshan/datawidge.cpp.o.d -o CMakeFiles/quaketool.dir/tayshan/datawidge.cpp.o -c "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/tayshan/datawidge.cpp"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/quaketool.dir/tayshan/datawidge.cpp.o -MF CMakeFiles/quaketool.dir/tayshan/datawidge.cpp.o.d -o CMakeFiles/quaketool.dir/tayshan/datawidge.cpp.o -c "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/tayshan/datawidge.cpp"
 
 CMakeFiles/quaketool.dir/tayshan/datawidge.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/quaketool.dir/tayshan/datawidge.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/tayshan/datawidge.cpp" > CMakeFiles/quaketool.dir/tayshan/datawidge.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/tayshan/datawidge.cpp" > CMakeFiles/quaketool.dir/tayshan/datawidge.cpp.i
 
 CMakeFiles/quaketool.dir/tayshan/datawidge.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/quaketool.dir/tayshan/datawidge.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/tayshan/datawidge.cpp" -o CMakeFiles/quaketool.dir/tayshan/datawidge.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/tayshan/datawidge.cpp" -o CMakeFiles/quaketool.dir/tayshan/datawidge.cpp.s
 
 CMakeFiles/quaketool.dir/tayshan/window.cpp.o: CMakeFiles/quaketool.dir/flags.make
-CMakeFiles/quaketool.dir/tayshan/window.cpp.o: /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/tayshan/window.cpp
+CMakeFiles/quaketool.dir/tayshan/window.cpp.o: /uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2\ solution/tayshan/window.cpp
 CMakeFiles/quaketool.dir/tayshan/window.cpp.o: CMakeFiles/quaketool.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/quaketool.dir/tayshan/window.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/quaketool.dir/tayshan/window.cpp.o -MF CMakeFiles/quaketool.dir/tayshan/window.cpp.o.d -o CMakeFiles/quaketool.dir/tayshan/window.cpp.o -c "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/tayshan/window.cpp"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/quaketool.dir/tayshan/window.cpp.o -MF CMakeFiles/quaketool.dir/tayshan/window.cpp.o.d -o CMakeFiles/quaketool.dir/tayshan/window.cpp.o -c "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/tayshan/window.cpp"
 
 CMakeFiles/quaketool.dir/tayshan/window.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/quaketool.dir/tayshan/window.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/tayshan/window.cpp" > CMakeFiles/quaketool.dir/tayshan/window.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/tayshan/window.cpp" > CMakeFiles/quaketool.dir/tayshan/window.cpp.i
 
 CMakeFiles/quaketool.dir/tayshan/window.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/quaketool.dir/tayshan/window.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/tayshan/window.cpp" -o CMakeFiles/quaketool.dir/tayshan/window.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution/tayshan/window.cpp" -o CMakeFiles/quaketool.dir/tayshan/window.cpp.s
 
 # Object files for target quaketool
 quaketool_OBJECTS = \
@@ -369,6 +369,6 @@ CMakeFiles/quaketool.dir/clean:
 .PHONY : CMakeFiles/quaketool.dir/clean
 
 CMakeFiles/quaketool.dir/depend:
-	cd "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution" "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution" "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build" "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build" "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles/quaketool.dir/DependInfo.cmake" --color=$(COLOR)
+	cd "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution" "/uolstore/home/student_lnxhome01/sc23fb/User-Interfaces-Group-1/cwk2 solution" "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build" "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build" "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles/quaketool.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/quaketool.dir/depend
 
