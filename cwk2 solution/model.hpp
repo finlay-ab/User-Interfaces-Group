@@ -15,8 +15,9 @@ class QuakeModel: public QAbstractTableModel
     QVariant data(const QModelIndex&, int) const;
     QVariant headerData(int, Qt::Orientation, int) const;
 
-    double meanDepth() const { return dataset.meanDepth(); }       // Now returns 0
-    double meanMagnitude() const { return dataset.meanMagnitude(); } // Now returns 0
+    //keep otherwise it breaks
+    double meanDepth() const { return dataset.meanDepth(); }       
+    double meanMagnitude() const { return dataset.meanMagnitude(); } 
 
   private:
     QuakeDataset dataset;

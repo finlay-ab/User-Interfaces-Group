@@ -40,12 +40,10 @@ void QuakeWindow::createStatusBar()
 
 void QuakeWindow::addFileMenu()
 {
-  // Set Data Location action (optional, if you still want to use it)
   QAction* locAction = new QAction("Set Data &Location", this);
   locAction->setShortcut(QKeySequence(Qt::CTRL | Qt::Key_L));
   connect(locAction, SIGNAL(triggered()), this, SLOT(setDataLocation()));
 
-  // Open CSV file action
   QAction* openAction = new QAction("&Open CSV File", this);
   openAction->setShortcut(QKeySequence::Open);
   connect(openAction, SIGNAL(triggered()), this, SLOT(openCSV()));
@@ -89,7 +87,6 @@ void QuakeWindow::setDataLocation()
 
 void QuakeWindow::openCSV()
 {
-  // Allow the user to select a single CSV file directly
   QString filePath = QFileDialog::getOpenFileName(
     this,
     "Open CSV File",
@@ -97,7 +94,6 @@ void QuakeWindow::openCSV()
     "CSV Files (*.csv)"
   );
 
-  // If no file selected, do nothing
   if (filePath.isEmpty()) {
     return;
   }

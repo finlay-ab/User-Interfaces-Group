@@ -12,7 +12,7 @@ class QuakeDataset
     int size() const { return data.size(); }
     Quake operator[](int index) const { return data.at(index); }
 
-    // These no longer apply, but we keep them to preserve structure
+    // keep becuase it breaks if you remove!
     Quake strongest() const; 
     Quake shallowest() const; 
     double meanDepth() const;

@@ -3,7 +3,7 @@
 #include <QtWidgets>
 #include "stats.hpp"
 
-
+// dont touch this whole section it breaks things just lave it be
 StatsDialog::StatsDialog(QWidget* parent): QDialog(parent)
 {
   createWidgets();

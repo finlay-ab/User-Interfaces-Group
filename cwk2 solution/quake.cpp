@@ -37,16 +37,4 @@ Quake::Quake(
   easting(easting),
   northing(northing)
 {
-  // No validation needed now.
-}
-
-
-std::ostream& operator<<(std::ostream& out, const Quake& quake)
-{
-  // Just output a few fields for debugging. This is optional.
-  return out << "@id: " << quake.getId() << "\n"
-             << "Sampling Point: " << quake.getSamplingPoint() << "\n"
-             << "Sample Date Time: " << quake.getSampleDateTime() << "\n"
-             << "Result: " << quake.getResult() << "\n"
-             << "Is Compliance Sample: " << (quake.getIsComplianceSample() ? "true" : "false") << "\n";
 }

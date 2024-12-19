@@ -53,7 +53,6 @@ QVariant QuakeModel::headerData(int section, Qt::Orientation orientation, int ro
     return QVariant(section + 1);
   }
 
-  // Provide headers matching the fields:
   switch (section) {
     case 0: return QString("@id");
     case 1: return QString("sample.samplingPoint");
