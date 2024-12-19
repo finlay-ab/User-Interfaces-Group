@@ -3,7 +3,7 @@
 #pragma once
 
 #include <QMainWindow>
-#include "model.hpp"
+#include "../model.hpp"
 
 class QString;
 class QComboBox;

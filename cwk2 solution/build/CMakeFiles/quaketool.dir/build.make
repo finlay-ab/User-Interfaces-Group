@@ -251,6 +251,62 @@ CMakeFiles/quaketool.dir/rameesah/overviewWidget.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/quaketool.dir/rameesah/overviewWidget.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/rameesah/overviewWidget.cpp" -o CMakeFiles/quaketool.dir/rameesah/overviewWidget.cpp.s
 
+CMakeFiles/quaketool.dir/rameesah/PCBMonitor.cpp.o: CMakeFiles/quaketool.dir/flags.make
+CMakeFiles/quaketool.dir/rameesah/PCBMonitor.cpp.o: /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/rameesah/PCBMonitor.cpp
+CMakeFiles/quaketool.dir/rameesah/PCBMonitor.cpp.o: CMakeFiles/quaketool.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/quaketool.dir/rameesah/PCBMonitor.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/quaketool.dir/rameesah/PCBMonitor.cpp.o -MF CMakeFiles/quaketool.dir/rameesah/PCBMonitor.cpp.o.d -o CMakeFiles/quaketool.dir/rameesah/PCBMonitor.cpp.o -c "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/rameesah/PCBMonitor.cpp"
+
+CMakeFiles/quaketool.dir/rameesah/PCBMonitor.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/quaketool.dir/rameesah/PCBMonitor.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/rameesah/PCBMonitor.cpp" > CMakeFiles/quaketool.dir/rameesah/PCBMonitor.cpp.i
+
+CMakeFiles/quaketool.dir/rameesah/PCBMonitor.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/quaketool.dir/rameesah/PCBMonitor.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/rameesah/PCBMonitor.cpp" -o CMakeFiles/quaketool.dir/rameesah/PCBMonitor.cpp.s
+
+CMakeFiles/quaketool.dir/tayshan/dashwidge.cpp.o: CMakeFiles/quaketool.dir/flags.make
+CMakeFiles/quaketool.dir/tayshan/dashwidge.cpp.o: /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/tayshan/dashwidge.cpp
+CMakeFiles/quaketool.dir/tayshan/dashwidge.cpp.o: CMakeFiles/quaketool.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/quaketool.dir/tayshan/dashwidge.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/quaketool.dir/tayshan/dashwidge.cpp.o -MF CMakeFiles/quaketool.dir/tayshan/dashwidge.cpp.o.d -o CMakeFiles/quaketool.dir/tayshan/dashwidge.cpp.o -c "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/tayshan/dashwidge.cpp"
+
+CMakeFiles/quaketool.dir/tayshan/dashwidge.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/quaketool.dir/tayshan/dashwidge.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/tayshan/dashwidge.cpp" > CMakeFiles/quaketool.dir/tayshan/dashwidge.cpp.i
+
+CMakeFiles/quaketool.dir/tayshan/dashwidge.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/quaketool.dir/tayshan/dashwidge.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/tayshan/dashwidge.cpp" -o CMakeFiles/quaketool.dir/tayshan/dashwidge.cpp.s
+
+CMakeFiles/quaketool.dir/tayshan/datawidge.cpp.o: CMakeFiles/quaketool.dir/flags.make
+CMakeFiles/quaketool.dir/tayshan/datawidge.cpp.o: /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/tayshan/datawidge.cpp
+CMakeFiles/quaketool.dir/tayshan/datawidge.cpp.o: CMakeFiles/quaketool.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/quaketool.dir/tayshan/datawidge.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/quaketool.dir/tayshan/datawidge.cpp.o -MF CMakeFiles/quaketool.dir/tayshan/datawidge.cpp.o.d -o CMakeFiles/quaketool.dir/tayshan/datawidge.cpp.o -c "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/tayshan/datawidge.cpp"
+
+CMakeFiles/quaketool.dir/tayshan/datawidge.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/quaketool.dir/tayshan/datawidge.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/tayshan/datawidge.cpp" > CMakeFiles/quaketool.dir/tayshan/datawidge.cpp.i
+
+CMakeFiles/quaketool.dir/tayshan/datawidge.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/quaketool.dir/tayshan/datawidge.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/tayshan/datawidge.cpp" -o CMakeFiles/quaketool.dir/tayshan/datawidge.cpp.s
+
+CMakeFiles/quaketool.dir/tayshan/window.cpp.o: CMakeFiles/quaketool.dir/flags.make
+CMakeFiles/quaketool.dir/tayshan/window.cpp.o: /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/tayshan/window.cpp
+CMakeFiles/quaketool.dir/tayshan/window.cpp.o: CMakeFiles/quaketool.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/quaketool.dir/tayshan/window.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/quaketool.dir/tayshan/window.cpp.o -MF CMakeFiles/quaketool.dir/tayshan/window.cpp.o.d -o CMakeFiles/quaketool.dir/tayshan/window.cpp.o -c "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/tayshan/window.cpp"
+
+CMakeFiles/quaketool.dir/tayshan/window.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/quaketool.dir/tayshan/window.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/tayshan/window.cpp" > CMakeFiles/quaketool.dir/tayshan/window.cpp.i
+
+CMakeFiles/quaketool.dir/tayshan/window.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/quaketool.dir/tayshan/window.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/tayshan/window.cpp" -o CMakeFiles/quaketool.dir/tayshan/window.cpp.s
+
 # Object files for target quaketool
 quaketool_OBJECTS = \
 "CMakeFiles/quaketool.dir/quaketool_autogen/mocs_compilation.cpp.o" \
@@ -265,7 +321,11 @@ quaketool_OBJECTS = \
 "CMakeFiles/quaketool.dir/daniel/physical_pollution_page/window.cpp.o" \
 "CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/line_chart.cpp.o" \
 "CMakeFiles/quaketool.dir/daniel/physical_pollution_page/pie_chart.cpp.o" \
-"CMakeFiles/quaketool.dir/rameesah/overviewWidget.cpp.o"
+"CMakeFiles/quaketool.dir/rameesah/overviewWidget.cpp.o" \
+"CMakeFiles/quaketool.dir/rameesah/PCBMonitor.cpp.o" \
+"CMakeFiles/quaketool.dir/tayshan/dashwidge.cpp.o" \
+"CMakeFiles/quaketool.dir/tayshan/datawidge.cpp.o" \
+"CMakeFiles/quaketool.dir/tayshan/window.cpp.o"
 
 # External object files for target quaketool
 quaketool_EXTERNAL_OBJECTS =
@@ -283,6 +343,10 @@ quaketool: CMakeFiles/quaketool.dir/daniel/physical_pollution_page/window.cpp.o
 quaketool: CMakeFiles/quaketool.dir/daniel/fluorinated_compounds_page/line_chart.cpp.o
 quaketool: CMakeFiles/quaketool.dir/daniel/physical_pollution_page/pie_chart.cpp.o
 quaketool: CMakeFiles/quaketool.dir/rameesah/overviewWidget.cpp.o
+quaketool: CMakeFiles/quaketool.dir/rameesah/PCBMonitor.cpp.o
+quaketool: CMakeFiles/quaketool.dir/tayshan/dashwidge.cpp.o
+quaketool: CMakeFiles/quaketool.dir/tayshan/datawidge.cpp.o
+quaketool: CMakeFiles/quaketool.dir/tayshan/window.cpp.o
 quaketool: CMakeFiles/quaketool.dir/build.make
 quaketool: /usr/lib64/libQt6Charts.so.6.6.2
 quaketool: /usr/lib64/libQt6OpenGLWidgets.so.6.6.2
@@ -293,7 +357,7 @@ quaketool: /usr/lib64/libQt6Core.so.6.6.2
 quaketool: /usr/lib64/libGLX.so
 quaketool: /usr/lib64/libOpenGL.so
 quaketool: CMakeFiles/quaketool.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_14) "Linking CXX executable quaketool"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_18) "Linking CXX executable quaketool"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/quaketool.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

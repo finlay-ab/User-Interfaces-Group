@@ -426,6 +426,12 @@
 			null
 		],
 		[
+			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/rameesah/PCBMonitor.hpp",
+			"MU",
+			"X7NV6K2PTN/moc_PCBMonitor.cpp",
+			null
+		],
+		[
 			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/rameesah/overviewWidget.hpp",
 			"MU",
 			"X7NV6K2PTN/moc_overviewWidget.cpp",
@@ -435,6 +441,24 @@
 			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/stats.hpp",
 			"MU",
 			"EWIEGA46WW/moc_stats.cpp",
+			null
+		],
+		[
+			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/tayshan/dashwidge.hpp",
+			"MU",
+			"P33VSX5UGX/moc_dashwidge.cpp",
+			null
+		],
+		[
+			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/tayshan/datawidge.hpp",
+			"MU",
+			"P33VSX5UGX/moc_datawidge.cpp",
+			null
+		],
+		[
+			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/tayshan/window.hpp",
+			"MU",
+			"P33VSX5UGX/moc_window.cpp",
 			null
 		],
 		[
@@ -558,12 +582,32 @@
 			null
 		],
 		[
+			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/rameesah/PCBMonitor.cpp",
+			"MU",
+			null
+		],
+		[
 			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/rameesah/overviewWidget.cpp",
 			"MU",
 			null
 		],
 		[
 			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/stats.cpp",
+			"MU",
+			null
+		],
+		[
+			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/tayshan/dashwidge.cpp",
+			"MU",
+			null
+		],
+		[
+			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/tayshan/datawidge.cpp",
+			"MU",
+			null
+		],
+		[
+			"/uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2 solution/tayshan/window.cpp",
 			"MU",
 			null
 		],

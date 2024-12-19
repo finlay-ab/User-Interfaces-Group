@@ -15,7 +15,9 @@ qt_standard_project_setup()
 qt_add_executable(quaketool
     main.cpp
     quake.cpp
+    quake.hpp
     dataset.cpp
+    dataset.hpp
     model.cpp
     window.cpp
     stats.cpp
@@ -26,6 +28,14 @@ qt_add_executable(quaketool
     daniel/physical_pollution_page/pie_chart.cpp
     rameesah/overviewWidget.cpp
     rameesah/overviewWidget.hpp
+    rameesah/PCBMonitor.cpp
+    rameesah/PCBMonitor.hpp
+    tayshan/dashwidge.cpp
+    tayshan/dashwidge.hpp
+    tayshan/datawidge.cpp
+    tayshan/datawidge.hpp
+    tayshan/window.cpp
+    tayshan/window.hpp
 )
 
 target_link_libraries(quaketool PRIVATE Qt6::Widgets)

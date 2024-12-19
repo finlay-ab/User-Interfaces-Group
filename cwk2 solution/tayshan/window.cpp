@@ -4,7 +4,7 @@
 #include <stdexcept>
 #include <iostream>
 #include "window.hpp"
-#include "stats.hpp"
+#include "../stats.hpp"
 #include "dashwidge.hpp"
 #include "datawidge.hpp"
 

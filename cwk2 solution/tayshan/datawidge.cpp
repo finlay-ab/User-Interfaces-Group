@@ -4,7 +4,7 @@
 #include <QStatusBar>
 #include <stdexcept>
 #include <iostream>
-#include "stats.hpp"
+#include "../stats.hpp"
 #include "datawidge.hpp"
 
 

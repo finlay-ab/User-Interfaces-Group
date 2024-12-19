@@ -1,5 +1,5 @@
-CMakeFiles/quaketool.dir/main.cpp.o: \
- /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/main.cpp \
+CMakeFiles/quaketool.dir/tayshan/window.cpp.o: \
+ /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/tayshan/window.cpp \
  /usr/include/stdc-predef.h /usr/include/qt6/QtWidgets/QtWidgets \
  /usr/include/qt6/QtWidgets/QtWidgetsDepends \
  /usr/include/qt6/QtCore/QtCore /usr/include/qt6/QtCore/QtCoreDepends \
@@ -926,57 +926,14 @@ CMakeFiles/quaketool.dir/main.cpp.o: \
  /usr/include/qt6/QtWidgets/qwhatsthis.h \
  /usr/include/qt6/QtWidgets/qwidget.h \
  /usr/include/qt6/QtWidgets/qwidgetaction.h \
- /usr/include/qt6/QtWidgets/qwizard.h \
- /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/window.hpp \
- /usr/include/qt6/QtWidgets/QMainWindow \
- /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/model.hpp \
- /usr/include/qt6/QtCore/QAbstractTableModel \
- /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/dataset.hpp \
- /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/quake.hpp \
- /usr/include/c++/11/iostream \
- /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/nadia/UnifiedWidget.hpp \
- /usr/include/qt6/QtWidgets/QWidget /usr/include/qt6/QtWidgets/QLabel \
- /usr/include/qt6/QtWidgets/QPushButton \
- /usr/include/qt6/QtWidgets/QComboBox \
- /usr/include/qt6/QtWidgets/QTableView \
- /usr/include/qt6/QtWidgets/QVBoxLayout \
- /usr/include/qt6/QtWidgets/QHBoxLayout \
- /usr/include/qt6/QtWidgets/QLineEdit \
+ /usr/include/qt6/QtWidgets/qwizard.h /usr/include/c++/11/iostream \
  /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/tayshan/window.hpp \
- /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/rameesah/PCBMonitor.hpp \
- /usr/include/qt6/QtGui/QColor /usr/include/qt6/QtWidgets/QTextEdit \
- /usr/include/qt6/QtCore/QDateTime /usr/include/qt6/QtWidgets/QToolTip \
- /usr/include/qt6/QtGui/QCursor /usr/include/qt6/QtWidgets/QFrame \
- /usr/include/qt6/QtCharts/QChartView \
- /usr/include/qt6/QtCharts/qchartview.h \
- /usr/include/qt6/QtCharts/QAbstractAxis \
- /usr/include/qt6/QtCharts/qabstractaxis.h \
- /usr/include/qt6/QtCharts/QChartGlobal \
- /usr/include/qt6/QtCharts/qchartglobal.h \
- /usr/include/qt6/QtCharts/qtcharts-config.h \
- /usr/include/qt6/QtCharts/qtchartsexports.h /usr/include/qt6/QtGui/QPen \
- /usr/include/qt6/QtGui/QFont /usr/include/qt6/QtCharts/QAbstractSeries \
- /usr/include/qt6/QtCharts/qabstractseries.h \
- /usr/include/qt6/QtCharts/QChart /usr/include/qt6/QtCharts/qchart.h \
- /usr/include/qt6/QtCharts/QLegend /usr/include/qt6/QtCharts/qlegend.h \
- /usr/include/qt6/QtWidgets/QGraphicsWidget /usr/include/qt6/QtGui/QBrush \
- /usr/include/qt6/QtWidgets/QGraphicsView \
- /usr/include/qt6/QtCharts/QLineSeries \
- /usr/include/qt6/QtCharts/qlineseries.h \
- /usr/include/qt6/QtCharts/QXYSeries \
- /usr/include/qt6/QtCharts/qxyseries.h /usr/include/qt6/QtGui/QImage \
- /usr/include/qt6/QtCharts/QScatterSeries \
- /usr/include/qt6/QtCharts/qscatterseries.h \
- /usr/include/qt6/QtCharts/qxyseries.h \
- /usr/include/qt6/QtCharts/QDateTimeAxis \
- /usr/include/qt6/QtCharts/qdatetimeaxis.h \
- /usr/include/qt6/QtCharts/QValueAxis \
- /usr/include/qt6/QtCharts/qvalueaxis.h \
- /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/rameesah/overviewWidget.hpp \
- /usr/include/qt6/QtWidgets/QListWidget \
- /usr/include/qt6/QtWidgets/QApplication \
- /usr/include/qt6/QtWidgets/QMessageBox /usr/include/qt6/QtCore/QTimer \
- /usr/include/c++/11/set /usr/include/c++/11/bits/stl_set.h \
- /usr/include/c++/11/bits/stl_multiset.h \
- /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/daniel/physical_pollution_page/window.hpp \
- /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/daniel/fluorinated_compounds_page/window.hpp
+ /usr/include/qt6/QtWidgets/QMainWindow \
+ /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/tayshan/../model.hpp \
+ /usr/include/qt6/QtCore/QAbstractTableModel \
+ /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/tayshan/../dataset.hpp \
+ /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/tayshan/../quake.hpp \
+ /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/tayshan/../stats.hpp \
+ /usr/include/qt6/QtWidgets/QDialog \
+ /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/tayshan/dashwidge.hpp \
+ /uolstore/home/users/sc23fb/User-Interfaces-Group-1/cwk2\ solution/tayshan/datawidge.hpp

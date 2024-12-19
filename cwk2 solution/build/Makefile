@@ -382,6 +382,30 @@ quaketool_autogen/mocs_compilation.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/quaketool.dir/build.make CMakeFiles/quaketool.dir/quaketool_autogen/mocs_compilation.cpp.s
 .PHONY : quaketool_autogen/mocs_compilation.cpp.s
 
+rameesah/PCBMonitor.o: rameesah/PCBMonitor.cpp.o
+.PHONY : rameesah/PCBMonitor.o
+
+# target to build an object file
+rameesah/PCBMonitor.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/quaketool.dir/build.make CMakeFiles/quaketool.dir/rameesah/PCBMonitor.cpp.o
+.PHONY : rameesah/PCBMonitor.cpp.o
+
+rameesah/PCBMonitor.i: rameesah/PCBMonitor.cpp.i
+.PHONY : rameesah/PCBMonitor.i
+
+# target to preprocess a source file
+rameesah/PCBMonitor.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/quaketool.dir/build.make CMakeFiles/quaketool.dir/rameesah/PCBMonitor.cpp.i
+.PHONY : rameesah/PCBMonitor.cpp.i
+
+rameesah/PCBMonitor.s: rameesah/PCBMonitor.cpp.s
+.PHONY : rameesah/PCBMonitor.s
+
+# target to generate assembly for a file
+rameesah/PCBMonitor.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/quaketool.dir/build.make CMakeFiles/quaketool.dir/rameesah/PCBMonitor.cpp.s
+.PHONY : rameesah/PCBMonitor.cpp.s
+
 rameesah/overviewWidget.o: rameesah/overviewWidget.cpp.o
 .PHONY : rameesah/overviewWidget.o
 
@@ -429,6 +453,78 @@ stats.s: stats.cpp.s
 stats.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/quaketool.dir/build.make CMakeFiles/quaketool.dir/stats.cpp.s
 .PHONY : stats.cpp.s
+
+tayshan/dashwidge.o: tayshan/dashwidge.cpp.o
+.PHONY : tayshan/dashwidge.o
+
+# target to build an object file
+tayshan/dashwidge.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/quaketool.dir/build.make CMakeFiles/quaketool.dir/tayshan/dashwidge.cpp.o
+.PHONY : tayshan/dashwidge.cpp.o
+
+tayshan/dashwidge.i: tayshan/dashwidge.cpp.i
+.PHONY : tayshan/dashwidge.i
+
+# target to preprocess a source file
+tayshan/dashwidge.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/quaketool.dir/build.make CMakeFiles/quaketool.dir/tayshan/dashwidge.cpp.i
+.PHONY : tayshan/dashwidge.cpp.i
+
+tayshan/dashwidge.s: tayshan/dashwidge.cpp.s
+.PHONY : tayshan/dashwidge.s
+
+# target to generate assembly for a file
+tayshan/dashwidge.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/quaketool.dir/build.make CMakeFiles/quaketool.dir/tayshan/dashwidge.cpp.s
+.PHONY : tayshan/dashwidge.cpp.s
+
+tayshan/datawidge.o: tayshan/datawidge.cpp.o
+.PHONY : tayshan/datawidge.o
+
+# target to build an object file
+tayshan/datawidge.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/quaketool.dir/build.make CMakeFiles/quaketool.dir/tayshan/datawidge.cpp.o
+.PHONY : tayshan/datawidge.cpp.o
+
+tayshan/datawidge.i: tayshan/datawidge.cpp.i
+.PHONY : tayshan/datawidge.i
+
+# target to preprocess a source file
+tayshan/datawidge.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/quaketool.dir/build.make CMakeFiles/quaketool.dir/tayshan/datawidge.cpp.i
+.PHONY : tayshan/datawidge.cpp.i
+
+tayshan/datawidge.s: tayshan/datawidge.cpp.s
+.PHONY : tayshan/datawidge.s
+
+# target to generate assembly for a file
+tayshan/datawidge.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/quaketool.dir/build.make CMakeFiles/quaketool.dir/tayshan/datawidge.cpp.s
+.PHONY : tayshan/datawidge.cpp.s
+
+tayshan/window.o: tayshan/window.cpp.o
+.PHONY : tayshan/window.o
+
+# target to build an object file
+tayshan/window.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/quaketool.dir/build.make CMakeFiles/quaketool.dir/tayshan/window.cpp.o
+.PHONY : tayshan/window.cpp.o
+
+tayshan/window.i: tayshan/window.cpp.i
+.PHONY : tayshan/window.i
+
+# target to preprocess a source file
+tayshan/window.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/quaketool.dir/build.make CMakeFiles/quaketool.dir/tayshan/window.cpp.i
+.PHONY : tayshan/window.cpp.i
+
+tayshan/window.s: tayshan/window.cpp.s
+.PHONY : tayshan/window.s
+
+# target to generate assembly for a file
+tayshan/window.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/quaketool.dir/build.make CMakeFiles/quaketool.dir/tayshan/window.cpp.s
+.PHONY : tayshan/window.cpp.s
 
 window.o: window.cpp.o
 .PHONY : window.o
@@ -494,12 +590,24 @@ help:
 	@echo "... quaketool_autogen/mocs_compilation.o"
 	@echo "... quaketool_autogen/mocs_compilation.i"
 	@echo "... quaketool_autogen/mocs_compilation.s"
+	@echo "... rameesah/PCBMonitor.o"
+	@echo "... rameesah/PCBMonitor.i"
+	@echo "... rameesah/PCBMonitor.s"
 	@echo "... rameesah/overviewWidget.o"
 	@echo "... rameesah/overviewWidget.i"
 	@echo "... rameesah/overviewWidget.s"
 	@echo "... stats.o"
 	@echo "... stats.i"
 	@echo "... stats.s"
+	@echo "... tayshan/dashwidge.o"
+	@echo "... tayshan/dashwidge.i"
+	@echo "... tayshan/dashwidge.s"
+	@echo "... tayshan/datawidge.o"
+	@echo "... tayshan/datawidge.i"
+	@echo "... tayshan/datawidge.s"
+	@echo "... tayshan/window.o"
+	@echo "... tayshan/window.i"
+	@echo "... tayshan/window.s"
 	@echo "... window.o"
 	@echo "... window.i"
 	@echo "... window.s"

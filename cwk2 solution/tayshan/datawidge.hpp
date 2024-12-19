@@ -2,7 +2,7 @@
 
 #include <QMainWindow>
 #include <QtWidgets>
-#include "model.hpp"
+#include "../model.hpp"
 
 class QString;
 class QComboBox;
